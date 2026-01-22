@@ -18,7 +18,7 @@
 
 *Letra*
 
-I::
+Parte I::
 Hoy cuanto vale un veintisiete, +
 es como el sol en su lago +
 lucero inmenso del mañana +
@@ -32,7 +32,7 @@ cuanto vale un veintisiete.
 Con sicuris, +
 nunca olvides Abelito.
 
-II::
+Parte II::
 Si quieren callar a tu pueblo, +
 defenderas buen guerrero, +
 Sicuri apu sartaniri* +
@@ -45,23 +45,6 @@ toma el valor veintisiete.
 +
 Con sicuris, +
 nunca olvides Abelito.
-
-== Agua Milagro
-
-*Numerofonía*
-
-image::./img/agua-milagro.png[]
-
-*Letra*
-
-Cariño sobre cariño +
-yo te conocí +
-conimeñita linda +
-de mis amores.
-
-Agua milagro me distes +
-como una prueba de amor, +
-pero tu me traicionaste
 
 == Agua Milagro
 
