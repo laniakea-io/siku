@@ -1,0 +1,392 @@
+= Cancionero
+:toc: left
+:toc-title: Índice
+:sectanchors:
+:sectnums:
+:sectnumlevels: 1
+:icons: font
+
+== Abelito
+
+*Numerofonía*
+
+   2 333 33-322 233    3    5   5    56
+  4 2   3      1   33-3 3444 555 4334  6
+
+   5    5    3333223    3    5    5    56
+  5 4433 55-5       33-3 3444 55-5 4334  6
+
+*Letra*
+
+I::
+Hoy cuanto vale un veintisiete, +
+es como el sol en su lago +
+lucero inmenso del mañana +
+es lo que vale un veintisiete.
++
+Cuando pregunten a los Apus, +
+el Cancharani respondera, +
+el Azoguine, Huajsapata, +
+cuanto vale un veintisiete.
++
+Con sicuris, +
+nunca olvides Abelito.
+
+II::
+Si quieren callar a tu pueblo, +
+defenderas buen guerrero, +
+Sicuri apu sartaniri* +
+toma el valor veintisiete.
++
+Por eso cuando te reclamen, +
+levantaras el Jake Aru, +
+el granvocero de tu pueblo, +
+toma el valor veintisiete.
++
+Con sicuris, +
+nunca olvides Abelito.
+
+== Agua Milagro
+
+*Numerofonía*
+
+image::./img/agua-milagro.png[]
+
+*Letra*
+
+Cariño sobre cariño +
+yo te conocí +
+conimeñita linda +
+de mis amores.
+
+Agua milagro me distes +
+como una prueba de amor, +
+pero tu me traicionaste
+
+== Agua Milagro
+
+*Numerofonía*
+
+image::./img/agua-milagro.png[]
+
+*Letra*
+
+Cariño sobre cariño +
+yo te conoci +
+conimeñita linda +
+de mis amores.
+
+Agua milagro me distes +
+como una prueba de amor, +
+pero tu me traicionaste +
+sin compasion.
+
+== Boqueron abandonado
+
+NOTE: Huayno Ligero
+
+*Numerofonía*
+
+image::./img/boqueron-abandonado.png[]
+
+== Cuando me vaya
+
+*Numerofonía*
+
+image::./img/cuando-me-vaya.png[]
+
+audio::./audio/cuando-me-vaya.mp4[]
+
+== Calavera
+
+*Numerofonía*
+
+image::./img/calavera.png[]
+
+*Letra*
+
+Todos me dicen que soy calavera +
+mentira no soy, soy un bohemio, +
+que canta sus penas +
+con su requinto
+
+Y así cantando en noches serenas +
+junto a tu ventana +
+huaynitos lindos, huaynitos serranos +
+para tí mi querer.
+
+Entre mil rosas, entre mil guindales +
+te voy mirando +
+Chucuiteña de mis esperanzas +
+suma pangarita
+
+Eres mi dicha, eres mi esperanza +
+línda paisanita +
+mi corazón no tiene descanso +
+solo por tu querer.
+
+Chucuito lindo asqui unajalsu +
+de aguas cristalinas +
+lava las manchas de tus malos hijos +
+para tu consuelo.
+
+Y así algún día en tu suelo virgen +
+renacerán pues +
+las lindas rosas, las lindas cantutas +
+de otros tiempos.
+
+== Diana Juventud
+
+*Numerofonía*
+
+image::./img/diana-juventud.png[]
+
+== Diana H'atariy
+
+Mario Hilari Calderón
+
+*Numerofonía*
+
+image::./img/diana-hatariy.png[]
+
+== Despedida Puneña
+
+*Numerofonía*
+
+image::./img/despedida-punenia.png[]
+
+*Letra*
+
+I::
+Compuertas del alto Puno +
+tu no ma sabes como lloré. +
+Al despedirme +
+como sangraba mi corazon. +
+Ay! mi palomita, +
+cómo sangraba mi corazón.
+
+II::
+Con un puñal en la mano, +
+quien te ha obligado que me quieras. +
+Ni tampoco nadie a forzado tu  voluntad. +
+Ay! mi palomita, +
+nadie ha forzado tu voluntad.
+
+== Treinta años
+
+*Numerofonía*
+
+image::./img/30-anios.png[]
+
+== Chuymamarka
+
+NOTE: Huayno Ligero
+
+*Numerofonía*
+
+image::./img/chuymamarka.png[]
+
+== Flavio
+
+*Numerofonía*
+
+image::./img/flavio.png[]
+
+== Ponchera
+
+*Numerofonía*
+
+image::./img/ponchera.png[]
+
+*Letra*
+
+Ay! ponchera de las fiestas , +
+testigo de los sicuris. +
+no murmures que me vaya, +
+de esta fiesta, +
+dejando estas melodías. +
+27, +
+eternos somos AJP.
+
+== Linda Sialeña
+
+*Numerofonía*
+
+image::./img/linda-sialeña.png[]
+
+*Letra*
+
+En las orillas de un lago azul, +
+linda sialeña, +
+tu amor me haz jurado cholita, +
+para toda la vida.
+
+Aunque preferiste alejarte, +
+no podrás olvidarte, +
+de aquellos momentos felices, +
+que juntos pasamos
+
+Linda sialeña, flor encantadora
+
+== Jilata
+
+*Numerofonía*
+
+image::./img/jilata.png[]
+
+*Letra*
+
+I::
+Mañana cuando tu te vayas, jilata, +
+haz de añorar tu sicuri. +
+Recordarás lindas imillas, jake, +
+y al próximo año regresarás. +
+Jilata, al 27 regresarás.
+
+II::
+Hermano sicuri recordaras, ahora, +
+todo el amor que perdistes. +
+Con lealtad y compromiso, eterno, +
+a los principios del sicuri. +
+Jilata de corazón veintisiete. +
+Wayquicha de corazón AJP.
+
+== JJ
+
+*Numerofonía*
+
+[source]
+----
+3 2 3 2   32  56
+ 2 2 2 122  44  6
+
+ 333  55    333  55     5   56
+4   34  5556   34  55565 443
+
+2 3  56
+ 2 43  6
+----
+
+== Morena
+
+*Numerofonía*
+
+image::./img/morena.png[]
+
+== Paja brava
+
+Rosendo Huirse
+
+*Numerofonía*
+
+image::./img/paja-brava.png[]
+
+*Letra*
+
+Todos me dicen “ Paja Brava, negrita” +
+Porque vivo en el campo +
+Con el agua, con el viento, +
+Verde no mas me mantengo
+
+Los que tienen padre y madre cholita +
+Dicen que tienen caudales +
+Yo no tengo padre ni madre +
+Ni perrito que me ladre
+
+Todos me dicen “cholero”, negrita, +
+Porque tengo a una cholita +
+Como si fuera pecado +
+Remangar su pollerita
+
+Todos me dicen “calato”, cholita, +
+Porque no tengo un centavo +
+Porque nací calatito +
+sólo los hijos de rico nacen +
+sobre sedas y perfumes
+
+== Nostalgias
+
+*Numerofonía*
+
+image::./img/nostalgias.png[]
+
+*Letra*
+
+I::
+Quien tiene tu ensueño +
+paloma +
+que el viento susurra.
++
+Tenia una amante +
+ilusion +
+pérdida en el tiempo.
++
+Sin su cariño +
+triste era la vida.
+
+II::
+Quiso el destino +
+un dia +
+robarme su amor.
++
+La pena es mas pena +
+y su amor +
+lejano y ausente.
++
+Sin sus caricias +
+que sera la vida.
+
+== Kalahuyo
+
+*Numerofonía*
+
+image::./img/kalahuyo.png[]
+
+*Letra*
+
+Kalahuyu rincón huraño, +
+en donde el pajonal ruge, +
+y el viento quema. (3L-bis) +
+Donde los frondosos q'ullis, +
+como vigías contamplan +
+las añoranzas de mi querer. (3L-bis) +
+Ayayay negra, las añoranzas de mi querer.
+
+El arbol que crece en sombras, +
+entre rocas y peñasco, +
+de nuestro amor sabe. (3L-bis) +
+Los truenos son delatores, +
+y las noches son testigas +
+de las ansias de quererte. (3L-bis) +
+Ayayay negra, de las ansias de quererte. (bis)
+
+== Virginia
+
+*Numerofonía*
+
+image::./img/virginia.png[]
+
+*Letra*
+
+Autor: Gustavo Alatrista
+
+Voy a pedir hoy, que doblen las +
+campanas de mi corazón, +
+porque mañana me muero +
+y tú me has dejado sin tu amor; +
+Virginia tú eres la causa, +
+de este cariño que mata con tus +
+crueles desatinos. yo ya estoy +
+muriendo por tu amor +
+eres tu virginia +
+la causa de este amor
+
+Del cielo voy a enviarte +
+mis caricias y mi devoción +
+para que te vengas pronto +
+a quererme más y más que ayer +
+Virginia tú eres la causa, +
+de este cariño que mata +
+con tus crueles desatinos +
+yo ya estoy muriendo +
+por tu amor
