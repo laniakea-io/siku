@@ -99,6 +99,8 @@ audio::./audio/cuando-me-vaya.mp4[]
 
 == Calavera
 
+NOTE: Huayno Ligero
+
 *Numerofonía*
 
 image::./img/calavera.png[]
@@ -230,6 +232,8 @@ Linda sialeña, flor encantadora
 
 == Jilata
 
+NOTE: Huayno Ligero
+
 *Numerofonía*
 
 image::./img/jilata.png[]
@@ -273,6 +277,14 @@ Wayquicha de corazón AJP.
 
 image::./img/morena.png[]
 
+audio::./audio/morena.aac[]
+
+*Letra*
+
+Linda morenita de mi vida juraste ser mi compañera Bis +
+Ahora que el tiempo ya ha pasado porque pretendes olvidarme Bis +
+Pagarás esa culpa ante la mirada de tus ojos.
+
 == Paja brava
 
 Rosendo Huirse
@@ -310,6 +322,8 @@ sobre sedas y perfumes
 
 image::./img/nostalgias.png[]
 
+audio::./audio/nostalgia.mpeg[]
+
 *Letra*
 
 I::
@@ -338,9 +352,13 @@ que sera la vida.
 
 == Kalahuyo
 
+NOTE: Huayno Calmado
+
 *Numerofonía*
 
 image::./img/kalahuyo.png[]
+
+audio::./audio/kalahuyo.mpeg[]
 
 *Letra*
 
@@ -362,13 +380,13 @@ Ayayay negra, de las ansias de quererte. (bis)
 
 == Virginia
 
+NOTE: Huayno Ligero
+
 *Numerofonía*
 
 image::./img/virginia.png[]
 
 *Letra*
-
-Autor: Gustavo Alatrista
 
 Voy a pedir hoy, que doblen las +
 campanas de mi corazón, +
@@ -390,3 +408,58 @@ de este cariño que mata +
 con tus crueles desatinos +
 yo ya estoy muriendo +
 por tu amor
+
+Autor: Gustavo Alatrista
+
+== Veinti-nueve (29) de septiembre
+
+image::./img/29-septiembre.png[]
+
+audio::./audio/29-septiembre.mpeg[]
+
+*Letra*
+
+PARTE I::
+Un 29 de septiembre, yo te +
+conocido, al compas de las +
+melodias de nuestro sicuri. +
+(BIS)
++
+En las visperas de San Miguel, al +
+pie de su altar, juraste ser mi +
+compañera, recuerdo imborrable. +
+(BIS)
++
+Huancaneña, recuerdo +
+imborrable. +
+(BIS)
+
+PARTE II::
+Que més pruebas de mi carifio +
+quieres huancaneña, si hasta en +
+las rocas del calvario se +
+encuentra tu nombre. +
+(BIS)
++
+Bajo las sombras de tus cactus te +
+tuve en mis brazos bebiendo el +
+néctar cristalino de tus labios +
+rojos. +
+(BIS)
++
+Huancaneña, de tus labios rojos. +
+(BIS)
+
+PARTE III::
+Hermosa chola huancaneña, +
+vives orgullosa, en el fragor de +
+tus avales al pie del coloso. +
+(BIS)
++
+En las arenas de tu playa escribí +
+tu nombre mirando el cielo de tus +
+ojos, todo un arco iris. +
+(BIS)
++
+Huancaneña, todo un arco iris. +
+(BIS)
