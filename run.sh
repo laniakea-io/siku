@@ -1,0 +1,1 @@
+asciidoctor cancionero.adoc && mv cancionero.html index.html
