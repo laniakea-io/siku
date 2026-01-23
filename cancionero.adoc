@@ -1,4 +1,5 @@
 = Cancionero
+v0.1, 2026-01-23
 :toc: left
 :toc-title: Índice
 :sectanchors:
@@ -7,8 +8,6 @@
 :icons: font
 
 == Abelito
-
-*Numerofonía*
 
    2 333 33-322 233    3    5   5    56
   4 2   3      1   33-3 3444 555 4334  6
@@ -19,43 +18,51 @@
   332    5    56
      33-5 4334  6
 
-*Letra*
-
 Parte I::
 Hoy cuanto vale un veintisiete, +
 es como el sol en su lago +
-lucero inmenso del mañana +
-es lo que vale un veintisiete.
+(BIS)
++
+lucero inmenso del mañana, +
+es lo que vale un veintisiete. +
+(BIS)
 +
 Cuando pregunten a los Apus, +
 el Cancharani respondera, +
+(BIS)
++
 el Azoguine, Huajsapata, +
-cuanto vale un veintisiete.
+cuanto vale un veintisiete. +
+(BIS)
 +
 Con sicuris, +
-nunca olvides Abelito.
+nunca olvides Abelito. +
+(BIS)
 
 Parte II::
 Si quieren callar a tu pueblo, +
 defenderas buen guerrero, +
-Sicuri apu sartaniri* +
-toma el valor veintisiete.
+(BIS)
++
+Sicuri apu sartañiri +
+toma el valor veintisiete. +
+(BIS)
 +
 Por eso cuando te reclamen, +
-levantaras el Jake Aru, +
+levantarás el Jake Aru, +
+(BIS)
++
 el granvocero de tu pueblo, +
-toma el valor veintisiete.
+toma el valor veintisiete. +
+(BIS)
 +
 Con sicuris, +
-nunca olvides Abelito.
+nunca olvides Abelito. +
+(BIS)
 
 == Agua Milagro
 
-*Numerofonía*
-
 image::./img/agua-milagro.png[]
-
-*Letra*
 
 Cariño sobre cariño +
 yo te conoci +
@@ -71,13 +78,9 @@ sin compasion.
 
 NOTE: Huayno Ligero
 
-*Numerofonía*
-
 image::./img/boqueron-abandonado.png[]
 
 == Cuando me vaya
-
-*Numerofonía*
 
 image::./img/cuando-me-vaya.png[]
 
@@ -87,11 +90,7 @@ audio::./audio/cuando-me-vaya.mp4[]
 
 NOTE: Huayno Ligero
 
-*Numerofonía*
-
 image::./img/calavera.png[]
-
-*Letra*
 
 Todos me dicen que soy calavera +
 mentira no soy, soy un bohemio, +
@@ -125,27 +124,19 @@ de otros tiempos.
 
 == Diana Juventud
 
-*Numerofonía*
-
 image::./img/diana-juventud.png[]
 
 == Diana H'atariy
 
-Mario Hilari Calderón
-
-*Numerofonía*
+``Mario Hilari Calderón``
 
 image::./img/diana-hatariy.png[]
 
 == Despedida Puneña
 
-*Numerofonía*
-
 image::./img/despedida-punenia.png[]
 
-*Letra*
-
-I::
+Parte I::
 Compuertas del alto Puno +
 tu no ma sabes como lloré. +
 Al despedirme +
@@ -153,7 +144,7 @@ como sangraba mi corazon. +
 Ay! mi palomita, +
 cómo sangraba mi corazón.
 
-II::
+Parte II::
 Con un puñal en la mano, +
 quien te ha obligado que me quieras. +
 Ni tampoco nadie a forzado tu  voluntad. +
@@ -162,47 +153,39 @@ nadie ha forzado tu voluntad.
 
 == Treinta años
 
-*Numerofonía*
-
 image::./img/30-anios.png[]
 
 == Chuymamarka
 
+``Liber Cahui Bustincio``
+
 NOTE: Huayno Ligero
 
-*Numerofonía*
 
 image::./img/chuymamarka.png[]
 
 == Flavio
 
-*Numerofonía*
-
 image::./img/flavio.png[]
 
 == Ponchera
 
-*Numerofonía*
-
 image::./img/ponchera.png[]
 
-*Letra*
-
-Ay! ponchera de las fiestas , +
+Ay! ponchera de las fiestas, +
 testigo de los sicuris. +
-no murmures que me vaya, +
-de esta fiesta, +
+(BIS)
++
+No murmures que me vaya, de esta tierra, +
 dejando estas melodías. +
-27, +
-eternos somos AJP.
+(BIS)
++
+27, eternos somos AJP. +
+(BIS)
 
 == Linda Sialeña
 
-*Numerofonía*
-
 image::./img/linda-sialeña.png[]
-
-*Letra*
 
 En las orillas de un lago azul, +
 linda sialeña, +
@@ -220,30 +203,33 @@ Linda sialeña, flor encantadora
 
 NOTE: Huayno Ligero
 
-*Numerofonía*
-
 image::./img/jilata.png[]
 
-*Letra*
-
-I::
+Parte I::
 Mañana cuando tu te vayas, jilata, +
 haz de añorar tu sicuri. +
+(BIS)
++
 Recordarás lindas imillas, jake, +
 y al próximo año regresarás. +
-Jilata, al 27 regresarás.
+(BIS)
++
+Jilata, al 27 regresarás, +
+Wayquicha, al 27 regresarás.
 
-II::
-Hermano sicuri recordaras, ahora, +
+Parte II::
+Hermano sicuri recordarás ahora, +
 todo el amor que perdistes. +
-Con lealtad y compromiso, eterno, +
+(BIS)
++
+Con lealtad y compromiso eterno, +
 a los principios del sicuri. +
-Jilata de corazón veintisiete. +
+(BIS)
++
+Jilata de corazón veintisiete, +
 Wayquicha de corazón AJP.
 
 == JJ
-
-*Numerofonía*
 
 [source]
 ----
@@ -259,13 +245,9 @@ Wayquicha de corazón AJP.
 
 == Morena
 
-*Numerofonía*
-
 image::./img/morena.png[]
 
 audio::./audio/morena.aac[]
-
-*Letra*
 
 Linda morenita de mi vida juraste ser mi compañera Bis +
 Ahora que el tiempo ya ha pasado porque pretendes olvidarme Bis +
@@ -275,44 +257,39 @@ Pagarás esa culpa ante la mirada de tus ojos.
 
 Rosendo Huirse
 
-*Numerofonía*
-
 image::./img/paja-brava.png[]
 
-*Letra*
-
-Todos me dicen “ Paja Brava, negrita” +
+Parte I::
+Todos me llaman paja brava cholit@, +
 Porque vivo en el campo +
+(BIS)
++
 Con el agua, con el viento, +
-Verde no mas me mantengo
+Verde nomás me mantengo +
+(BIS)
++
+Ayayay cholit@, verde nomás me mantengo. +
+(BIS)
 
-Los que tienen padre y madre cholita +
-Dicen que tienen caudales +
-Yo no tengo padre ni madre +
-Ni perrito que me ladre
-
-Todos me dicen “cholero”, negrita, +
-Porque tengo a una cholita +
-Como si fuera pecado +
-Remangar su pollerita
-
-Todos me dicen “calato”, cholita, +
-Porque no tengo un centavo +
-Porque nací calatito +
-sólo los hijos de rico nacen +
-sobre sedas y perfumes
+Parte II::
+Los que tienen padre y madre cholit@, +
+Dicen que tienen caudales. +
+(BIS)
++
+Yo no tengo padre ni madre, +
+Ni un perrito que me ladre. +
+(BIS)
++
+Ayayay cholit@, ni un perrito que me ladre. +
+(BIS)
 
 == Nostalgias
-
-*Numerofonía*
 
 image::./img/nostalgias.png[]
 
 audio::./audio/nostalgia.mpeg[]
 
-*Letra*
-
-I::
+Parte I::
 Quien tiene tu ensueño +
 paloma +
 que el viento susurra.
@@ -324,7 +301,7 @@ pérdida en el tiempo.
 Sin su cariño +
 triste era la vida.
 
-II::
+Parte II::
 Quiso el destino +
 un dia +
 robarme su amor.
@@ -340,13 +317,9 @@ que sera la vida.
 
 NOTE: Huayno Calmado
 
-*Numerofonía*
-
 image::./img/kalahuyo.png[]
 
 audio::./audio/kalahuyo.mpeg[]
-
-*Letra*
 
 Kalahuyu rincón huraño, +
 en donde el pajonal ruge, +
@@ -362,17 +335,15 @@ de nuestro amor sabe. (3L-bis) +
 Los truenos son delatores, +
 y las noches son testigas +
 de las ansias de quererte. (3L-bis) +
-Ayayay negra, de las ansias de quererte. (bis)
+Ayayay negra, de las ansias de quererte. +
+(BIS)
 
 == Virginia
 
 NOTE: Huayno Ligero
 
-*Numerofonía*
 
 image::./img/virginia.png[]
-
-*Letra*
 
 Voy a pedir hoy, que doblen las +
 campanas de mi corazón, +
@@ -402,8 +373,6 @@ Autor: Gustavo Alatrista
 image::./img/29-septiembre.png[]
 
 audio::./audio/29-septiembre.mpeg[]
-
-*Letra*
 
 PARTE I::
 Un 29 de septiembre, yo te +
