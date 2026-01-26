@@ -7,7 +7,25 @@ v0.1.3, 2026-01-26
 :sectnumlevels: 1
 :icons: font
 
-== Abelito
+== Bloque 1
+
+=== J.J.
+
+[source]
+----
+3 2 3 2   32  56
+ 2 2 2 122  44  6
+
+ 333  55    333  55     5   56
+4   34  5556   34  55565 443
+
+2 3  56
+ 2 43  6
+----
+
+audio::./audio/jj.mpeg[]
+
+=== Abelito
 
    2 333 33-322 233    3    5   5    56
   4 2   3      1   33-3 3444 555 4334  6
@@ -50,33 +68,229 @@ toma el valor veintisiete. +
 Con sicuris, nunca olvides Abelito. +
 (BIS)
 
-== Agua Milagro
+=== Linda Sialeña
 
-image::./img/agua-milagro.png[]
+image::./img/linda-sialeña.png[]
 
-Cariño sobre cariño +
-yo te conoci +
-conimeñita linda +
-de mis amores.
+En las orillas de un lago azul, +
+linda sialeña, +
+tu amor me haz jurado cholita, +
+para toda la vida.
 
-Agua milagro me distes +
-como una prueba de amor, +
-pero tu me traicionaste +
-sin compasion.
+Aunque preferiste alejarte, +
+no podrás olvidarte, +
+de aquellos momentos felices, +
+que juntos pasamos
 
-== Boqueron abandonado
+Linda sialeña, flor encantadora
+
+audio::./audio/linda-sialena.mpeg[]
+
+=== Ponchera
+
+image::./img/ponchera.png[]
+
+Ay! ponchera de las fiestas, +
+testigo de los sicuris. (BIS) +
+
+No murmures que me vaya, de esta tierra, +
+dejando estas melodías. (BIS) +
+
+27, eternos somos AJP. (BIS) +
+
+== Bloque 2
+
+=== Chuyma Marka
+
+_Liber Cahui Bustincio_
 
 NOTE: Huayno Ligero
 
-image::./img/boqueron-abandonado.png[]
+image::./img/chuymamarka.png[]
 
-== Cuando me vaya
+=== Gabrielita
+
+image::./img/gabrielita.jpeg[]
+
+=== Paja brava
+
+_Rosendo Huirse_
+
+image::./img/paja-brava.png[]
+
+Parte I::
+Todos me llaman paja brava cholit@, +
+Porque vivo en el campo +
+(BIS)
++
+Con el agua, con el viento, +
+Verde nomás me mantengo +
+(BIS)
++
+Ayayay cholit@, verde nomás me mantengo. +
+(BIS)
+
+Parte II::
+Los que tienen padre y madre cholit@, +
+Dicen que tienen caudales. +
+(BIS)
++
+Yo no tengo padre ni madre, +
+Ni un perrito que me ladre. +
+(BIS)
++
+Ayayay cholit@, ni un perrito que me ladre. +
+(BIS)
+
+audio::./audio/paja-brava.mpeg[]
+
+=== Virginia
+
+_Gustavo Alatrista_
+
+NOTE: Huayno Ligero
+
+image::./img/virginia.png[]
+
+Voy a pedir hoy, que doblen las +
+campanas de mi corazón, +
+porque mañana me muero +
+y tú me has dejado sin tu amor; +
+Virginia tú eres la causa, +
+de este cariño que mata con tus +
+crueles desatinos. yo ya estoy +
+muriendo por tu amor +
+eres tu virginia +
+la causa de este amor
+
+Del cielo voy a enviarte +
+mis caricias y mi devoción +
+para que te vengas pronto +
+a quererme más y más que ayer +
+Virginia tú eres la causa, +
+de este cariño que mata +
+con tus crueles desatinos +
+yo ya estoy muriendo +
+por tu amor
+
+== Bloque 3
+
+=== Cuando me vaya
 
 image::./img/cuando-me-vaya.jpeg[]
 
 audio::./audio/cuando-me-vaya.mp4[]
 
-== Calavera
+=== Nostalgia
+
+image::./img/nostalgias.png[]
+
+audio::./audio/nostalgia.mpeg[]
+
+Parte I::
+Quien tiene tu ensueño +
+paloma +
+que el viento susurra.
++
+Tenía una amante ilusión +
+pérdida en el tiempo.
++
+Sin su cariño +
+triste era la vida.
+
+Parte II::
+Quiso el destino un día +
+robarme su amor.
++
+La pena es más pena +
+y su amor +
+lejano y ausente.
++
+Sin sus caricias +
+que será la vida.
+
+=== Jilata
+
+NOTE: Huayno Ligero
+
+image::./img/jilata.png[]
+
+Parte I::
+Mañana cuando tu te vayas, jilata, +
+haz de añorar tu sicuri. +
+(BIS)
++
+Recordarás lindas imillas, jake, +
+y al próximo año regresarás. +
+(BIS)
++
+Jilata, al 27 regresarás, +
+Wayquicha, al 27 regresarás.
+
+Parte II::
+Hermano sicuri recordarás ahora, +
+todo el amor que perdistes. +
+(BIS)
++
+Con lealtad y compromiso eterno, +
+a los principios del sicuri. +
+(BIS)
++
+Jilata de corazón veintisiete, +
+Wayquicha de corazón AJP.
+
+audio::./audio/jilata.mpeg[]
+
+=== La Morena
+
+image::./img/morena.png[]
+
+audio::./audio/morena.aac[]
+
+Linda morenita de mi vida juraste ser mi compañera +
+(BIS)
+
+Ahora que el tiempo ya ha pasado porque pretendes olvidarme +
+(BIS)
+
+Pagarás esa culpa ante la mirada de tus ojos. +
+(BIS)
+
+== Bloque 4
+
+=== Boqueron abandonado
+
+NOTE: Huayno Ligero
+
+image::./img/boqueron-abandonado.png[]
+
+=== Hortencia
+
+_Captacion Qhantati Ururi_
+
+image::./img/hortencia.png[]
+
+Parte I::
+Entre las flores de mi jardin, +
+Hortencia, tu eres la mas preferida +
+por eso te quiero. +
+tomaremos una copa, +
+tomaremos otra copa +
+sausin inganista, tanta normalista +
+Ayayayay. +
+uta sausin inganista tanta normalista.
+
+Parte II::
+Para qué quiero yo la vida, para qué, +
+si ya no tengo tu cariño +
+que me dio la vida. +
+Mi corazón, yo te lo di, Hortencia +
+No llores, ni tengas miedo, +
+porque yo te quiero. +
+Ayayayay. +
+No llores, ni tengas miedo, porque yo te quiero.
+
+=== Calavera
 
 NOTE: Huayno Ligero
 
@@ -112,21 +326,38 @@ renacerán pues +
 las lindas rosas, las lindas cantutas +
 de otros tiempos.
 
-== Camacho
+=== Flor puneña
+
+image::./img/flor-punenia.jpeg[]
+
+Quisiera tenerte aquí siempre a mí lado, +
+quisiera tenerte siempre en cada amanecer.
+
+Porque mi cruel soledad juega con martirios, +
+estoy perdiendo mi vida al no poderte olvidar, +
+eres amor imposible linda flor puneña
+
+== Huaynos Calmados
+
+=== Agua Milagro
+
+image::./img/agua-milagro.png[]
+
+Cariño sobre cariño +
+yo te conoci +
+conimeñita linda +
+de mis amores.
+
+Agua milagro me distes +
+como una prueba de amor, +
+pero tu me traicionaste +
+sin compasion.
+
+=== Camacho
 
 Pronto disponible
 
-== Diana Juventud
-
-image::./img/diana-juventud.png[]
-
-== Diana H'atariy
-
-_Mario Hilari Calderón_
-
-image::./img/diana-hatariy.png[]
-
-== Despedida Puneña
+=== Despedida Puneña
 
 image::./img/despedida-punenia.png[]
 
@@ -145,217 +376,11 @@ Ni tampoco nadie a forzado tu  voluntad. +
 Ay! mi palomita, +
 nadie ha forzado tu voluntad.
 
-== Treinta años
+=== Treinta años
 
 image::./img/30-anios.png[]
 
-== Chuyma Marka
-
-_Liber Cahui Bustincio_
-
-NOTE: Huayno Ligero
-
-image::./img/chuymamarka.png[]
-
-== Flavio
-
-image::./img/flavio.png[]
-
-== Flor puneña
-
-image::./img/flor-punenia.jpeg[]
-
-Quisiera tenerte aquí siempre a mí lado, +
-quisiera tenerte siempre en cada amanecer.
-
-Porque mi cruel soledad juega con martirios, +
-estoy perdiendo mi vida al no poderte olvidar, +
-eres amor imposible linda flor puneña
-
-== Gabrielita
-
-image::./img/gabrielita.jpeg[]
-
-== Hortencia
-
-_Captacion Qhantati Ururi_
-
-image::./img/hortencia.png[]
-
-Parte I::
-Entre las flores de mi jardin, +
-Hortencia, tu eres la mas preferida +
-por eso te quiero. +
-tomaremos una copa, +
-tomaremos otra copa +
-sausin inganista, tanta normalista +
-Ayayayay. +
-uta sausin inganista tanta normalista.
-
-Parte II::
-Para qué quiero yo la vida, para qué, +
-si ya no tengo tu cariño +
-que me dio la vida. +
-Mi corazón, yo te lo di, Hortencia +
-No llores, ni tengas miedo, +
-porque yo te quiero. +
-Ayayayay. +
-No llores, ni tengas miedo, porque yo te quiero.
-
-== Ponchera
-
-image::./img/ponchera.png[]
-
-Ay! ponchera de las fiestas, +
-testigo de los sicuris. (BIS) +
-
-No murmures que me vaya, de esta tierra, +
-dejando estas melodías. (BIS) +
-
-27, eternos somos AJP. (BIS) +
-
-== Linda Sialeña
-
-image::./img/linda-sialeña.png[]
-
-En las orillas de un lago azul, +
-linda sialeña, +
-tu amor me haz jurado cholita, +
-para toda la vida.
-
-Aunque preferiste alejarte, +
-no podrás olvidarte, +
-de aquellos momentos felices, +
-que juntos pasamos
-
-Linda sialeña, flor encantadora
-
-audio::./audio/linda-sialena.mpeg[]
-
-== Jilata
-
-NOTE: Huayno Ligero
-
-image::./img/jilata.png[]
-
-Parte I::
-Mañana cuando tu te vayas, jilata, +
-haz de añorar tu sicuri. +
-(BIS)
-+
-Recordarás lindas imillas, jake, +
-y al próximo año regresarás. +
-(BIS)
-+
-Jilata, al 27 regresarás, +
-Wayquicha, al 27 regresarás.
-
-Parte II::
-Hermano sicuri recordarás ahora, +
-todo el amor que perdistes. +
-(BIS)
-+
-Con lealtad y compromiso eterno, +
-a los principios del sicuri. +
-(BIS)
-+
-Jilata de corazón veintisiete, +
-Wayquicha de corazón AJP.
-
-audio::./audio/jilata.mpeg[]
-
-== J.J.
-
-[source]
-----
-3 2 3 2   32  56
- 2 2 2 122  44  6
-
- 333  55    333  55     5   56
-4   34  5556   34  55565 443
-
-2 3  56
- 2 43  6
-----
-
-audio::./audio/jj.mpeg[]
-
-== La Morena
-
-image::./img/morena.png[]
-
-audio::./audio/morena.aac[]
-
-Linda morenita de mi vida juraste ser mi compañera +
-(BIS)
-
-Ahora que el tiempo ya ha pasado porque pretendes olvidarme +
-(BIS)
-
-Pagarás esa culpa ante la mirada de tus ojos. +
-(BIS)
-
-== Paja brava
-
-_Rosendo Huirse_
-
-image::./img/paja-brava.png[]
-
-Parte I::
-Todos me llaman paja brava cholit@, +
-Porque vivo en el campo +
-(BIS)
-+
-Con el agua, con el viento, +
-Verde nomás me mantengo +
-(BIS)
-+
-Ayayay cholit@, verde nomás me mantengo. +
-(BIS)
-
-Parte II::
-Los que tienen padre y madre cholit@, +
-Dicen que tienen caudales. +
-(BIS)
-+
-Yo no tengo padre ni madre, +
-Ni un perrito que me ladre. +
-(BIS)
-+
-Ayayay cholit@, ni un perrito que me ladre. +
-(BIS)
-
-audio::./audio/paja-brava.mpeg[]
-
-== Nostalgia
-
-image::./img/nostalgias.png[]
-
-audio::./audio/nostalgia.mpeg[]
-
-Parte I::
-Quien tiene tu ensueño +
-paloma +
-que el viento susurra.
-+
-Tenía una amante ilusión +
-pérdida en el tiempo.
-+
-Sin su cariño +
-triste era la vida.
-
-Parte II::
-Quiso el destino un día +
-robarme su amor.
-+
-La pena es más pena +
-y su amor +
-lejano y ausente.
-+
-Sin sus caricias +
-que será la vida.
-
-== Kalauyo
+=== Kalauyo
 
 NOTE: Huayno Calmado
 
@@ -380,36 +405,23 @@ de las ansias de quererte. (3L-bis) +
 Ayayay negra, de las ansias de quererte. +
 (BIS)
 
-== Virginia
+== Miscelánea
 
-_Gustavo Alatrista_
+=== Diana Juventud
 
-NOTE: Huayno Ligero
+image::./img/diana-juventud.png[]
 
-image::./img/virginia.png[]
+=== Diana H'atariy
 
-Voy a pedir hoy, que doblen las +
-campanas de mi corazón, +
-porque mañana me muero +
-y tú me has dejado sin tu amor; +
-Virginia tú eres la causa, +
-de este cariño que mata con tus +
-crueles desatinos. yo ya estoy +
-muriendo por tu amor +
-eres tu virginia +
-la causa de este amor
+_Mario Hilari Calderón_
 
-Del cielo voy a enviarte +
-mis caricias y mi devoción +
-para que te vengas pronto +
-a quererme más y más que ayer +
-Virginia tú eres la causa, +
-de este cariño que mata +
-con tus crueles desatinos +
-yo ya estoy muriendo +
-por tu amor
+image::./img/diana-hatariy.png[]
 
-== Veinti-nueve (29) de septiembre
+=== Flavio
+
+image::./img/flavio.png[]
+
+=== Veinti-nueve (29) de septiembre
 
 image::./img/29-septiembre.png[]
 
