@@ -114,6 +114,8 @@ de otros tiempos.
 
 == Camacho
 
+Pronto disponible
+
 == Diana Juventud
 
 image::./img/diana-juventud.png[]
@@ -175,6 +177,30 @@ eres amor imposible linda flor puneña
 image::./img/gabrielita.jpeg[]
 
 == Hortencia
+
+_Captacion Qhantati Ururi_
+
+image::./img/hortencia.png[]
+
+Parte I::
+Entre las flores de mi jardin, +
+Hortencia, tu eres la mas preferida +
+por eso te quiero. +
+tomaremos una copa, +
+tomaremos otra copa +
+sausin inganista, tanta normalista +
+Ayayayay. +
+uta sausin inganista tanta normalista.
+
+Parte II::
+Para qué quiero yo la vida, para qué, +
+si ya no tengo tu cariño +
+que me dio la vida. +
+Mi corazón, yo te lo di, Hortencia +
+No llores, ni tengas miedo, +
+porque yo te quiero. +
+Ayayayay. +
+No llores, ni tengas miedo, porque yo te quiero.
 
 == Ponchera
 
@@ -389,7 +415,7 @@ image::./img/29-septiembre.png[]
 
 audio::./audio/29-septiembre.mpeg[]
 
-PARTE I::
+Parte I::
 Un 29 de septiembre, yo te +
 conocido, al compas de las +
 melodias de nuestro sicuri. +
@@ -404,7 +430,7 @@ Huancaneña, recuerdo +
 imborrable. +
 (BIS)
 
-PARTE II::
+Parte II::
 Que més pruebas de mi carifio +
 quieres huancaneña, si hasta en +
 las rocas del calvario se +
@@ -420,7 +446,7 @@ rojos. +
 Huancaneña, de tus labios rojos. +
 (BIS)
 
-PARTE III::
+Parte III::
 Hermosa chola huancaneña, +
 vives orgullosa, en el fragor de +
 tus avales al pie del coloso. +
