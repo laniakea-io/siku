@@ -36,14 +36,14 @@ Con sicuris, nunca olvides Abelito. +
 
 Parte II::
 Si quieren callar a tu pueblo, +
-defenderas buen guerrero, +
+defenderás buen guerrero, +
 Sicuri apu sartañiri +
 toma el valor veintisiete. +
 (BIS)
 +
 Por eso cuando te reclamen, +
 levantarás el Jake Aru, +
-el granvocero de tu pueblo, +
+el gran vocero de tu pueblo, +
 toma el valor veintisiete. +
 (BIS)
 +
@@ -181,15 +181,12 @@ image::./img/gabrielita.jpeg[]
 image::./img/ponchera.png[]
 
 Ay! ponchera de las fiestas, +
-testigo de los sicuris. +
-(BIS)
+testigo de los sicuris. (BIS) +
 
 No murmures que me vaya, de esta tierra, +
-dejando estas melodías. +
-(BIS)
+dejando estas melodías. (BIS) +
 
-Veintisiete, eternos somos AJP. +
-(BIS)
+27, eternos somos AJP. (BIS) +
 
 == Linda Sialeña
 
