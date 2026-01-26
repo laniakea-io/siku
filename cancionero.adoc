@@ -1,5 +1,5 @@
 = Repertorio Candelaria 2026
-v0.1.2, 2026-01-26
+v0.1.3, 2026-01-26
 :toc: left
 :toc-title: Índice
 :sectanchors:
@@ -294,24 +294,22 @@ Quien tiene tu ensueño +
 paloma +
 que el viento susurra.
 +
-Tenia una amante +
-ilusion +
+Tenía una amante ilusión +
 pérdida en el tiempo.
 +
 Sin su cariño +
 triste era la vida.
 
 Parte II::
-Quiso el destino +
-un dia +
+Quiso el destino un día +
 robarme su amor.
 +
-La pena es mas pena +
+La pena es más pena +
 y su amor +
 lejano y ausente.
 +
 Sin sus caricias +
-que sera la vida.
+que será la vida.
 
 == Kalahuyo
 
