@@ -221,6 +221,8 @@ a los principios del sicuri. +
 Jilata de corazón veintisiete, +
 Wayquicha de corazón AJP.
 
+audio::./audio/jilata.mpeg[]
+
 == JJ
 
 [source]
