@@ -1,5 +1,5 @@
 = Repertorio Candelaria 2026
-v0.1, 2026-01-23
+v0.1.2, 2026-01-26
 :toc: left
 :toc-title: Índice
 :sectanchors:
