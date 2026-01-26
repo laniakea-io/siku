@@ -31,8 +31,7 @@ el Azoguine, Huajsapata, +
 cuanto vale un veintisiete. +
 (BIS)
 +
-Con sicuris, +
-nunca olvides Abelito. +
+Con sicuris, nunca olvides Abelito. +
 (BIS)
 
 Parte II::
@@ -48,8 +47,7 @@ el granvocero de tu pueblo, +
 toma el valor veintisiete. +
 (BIS)
 +
-Con sicuris, +
-nunca olvides Abelito. +
+Con sicuris, nunca olvides Abelito. +
 (BIS)
 
 == Agua Milagro
@@ -114,13 +112,15 @@ renacerán pues +
 las lindas rosas, las lindas cantutas +
 de otros tiempos.
 
+== Camacho
+
 == Diana Juventud
 
 image::./img/diana-juventud.png[]
 
 == Diana H'atariy
 
-``Mario Hilari Calderón``
+_Mario Hilari Calderón_
 
 image::./img/diana-hatariy.png[]
 
@@ -147,18 +147,34 @@ nadie ha forzado tu voluntad.
 
 image::./img/30-anios.png[]
 
-== Chuymamarka
+== Chuyma Marka
 
-``Liber Cahui Bustincio``
+_Liber Cahui Bustincio_
 
 NOTE: Huayno Ligero
-
 
 image::./img/chuymamarka.png[]
 
 == Flavio
 
 image::./img/flavio.png[]
+
+== Flor puneña
+
+image::./img/flor-punenia.jpeg[]
+
+Quisiera tenerte aquí siempre a mí lado, +
+quisiera tenerte siempre en cada amanecer.
+
+Porque mi cruel soledad juega con martirios, +
+estoy perdiendo mi vida al no poderte olvidar, +
+eres amor imposible linda flor puneña
+
+== Gabrielita
+
+image::./img/gabrielita.jpeg[]
+
+== Hortencia
 
 == Ponchera
 
@@ -167,12 +183,12 @@ image::./img/ponchera.png[]
 Ay! ponchera de las fiestas, +
 testigo de los sicuris. +
 (BIS)
-+
+
 No murmures que me vaya, de esta tierra, +
 dejando estas melodías. +
 (BIS)
-+
-27, eternos somos AJP. +
+
+Veintisiete, eternos somos AJP. +
 (BIS)
 
 == Linda Sialeña
@@ -225,7 +241,7 @@ Wayquicha de corazón AJP.
 
 audio::./audio/jilata.mpeg[]
 
-== JJ
+== J.J.
 
 [source]
 ----
@@ -241,19 +257,24 @@ audio::./audio/jilata.mpeg[]
 
 audio::./audio/jj.mpeg[]
 
-== Morena
+== La Morena
 
 image::./img/morena.png[]
 
 audio::./audio/morena.aac[]
 
-Linda morenita de mi vida juraste ser mi compañera Bis +
-Ahora que el tiempo ya ha pasado porque pretendes olvidarme Bis +
-Pagarás esa culpa ante la mirada de tus ojos.
+Linda morenita de mi vida juraste ser mi compañera +
+(BIS)
+
+Ahora que el tiempo ya ha pasado porque pretendes olvidarme +
+(BIS)
+
+Pagarás esa culpa ante la mirada de tus ojos. +
+(BIS)
 
 == Paja brava
 
-Rosendo Huirse
+_Rosendo Huirse_
 
 image::./img/paja-brava.png[]
 
@@ -283,7 +304,7 @@ Ayayay cholit@, ni un perrito que me ladre. +
 
 audio::./audio/paja-brava.mpeg[]
 
-== Nostalgias
+== Nostalgia
 
 image::./img/nostalgias.png[]
 
@@ -311,7 +332,7 @@ lejano y ausente.
 Sin sus caricias +
 que será la vida.
 
-== Kalahuyo
+== Kalauyo
 
 NOTE: Huayno Calmado
 
@@ -338,8 +359,9 @@ Ayayay negra, de las ansias de quererte. +
 
 == Virginia
 
-NOTE: Huayno Ligero
+_Gustavo Alatrista_
 
+NOTE: Huayno Ligero
 
 image::./img/virginia.png[]
 
@@ -363,8 +385,6 @@ de este cariño que mata +
 con tus crueles desatinos +
 yo ya estoy muriendo +
 por tu amor
-
-Autor: Gustavo Alatrista
 
 == Veinti-nueve (29) de septiembre
 
