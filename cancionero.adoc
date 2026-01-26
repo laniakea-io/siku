@@ -74,7 +74,7 @@ image::./img/boqueron-abandonado.png[]
 
 == Cuando me vaya
 
-image::./img/cuando-me-vaya.png[]
+image::./img/cuando-me-vaya.jpeg[]
 
 audio::./audio/cuando-me-vaya.mp4[]
 
