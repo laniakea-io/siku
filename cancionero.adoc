@@ -98,13 +98,23 @@ dejando estas melodías. +
 
 _Liber Cahui Bustincio_
 
-NOTE: Huayno Ligero
-
 image::./img/chuymamarka.png[]
 
 === Gabrielita
 
 image::./img/gabrielita.jpeg[]
+
+Linda Gabriela, de mi vida, tus ojos, tus labios son mi debilidad, +
+Besarte, abrazarte son sueños para mi, que si te vas tu ausencia de dolor me mátara, +
+No puedo olvidarte flor 27 en mis recuerdos te llevare
+
+Me hiere el frio de tu mirada, +
+Tan serca ufana, ciegas mi corazón. +
+No muestras cariño, pero tu aroma aquí, +
+En mi corazon, haces que en mis noches llore por ti,
+
+Linda gabrielita, tu amor espero, como angel que cure mi soledad, +
+No puedo olvidarte flor 27 en mis recuerdos te llevare.
 
 === Paja brava
 
@@ -135,8 +145,6 @@ audio::./audio/paja-brava.mpeg[]
 === Virginia
 
 _Gustavo Alatrista_
-
-NOTE: Huayno Ligero
 
 image::./img/virginia.png[]
 
@@ -199,8 +207,6 @@ que será la vida.
 
 === Jilata
 
-NOTE: Huayno Ligero
-
 image::./img/jilata.png[]
 
 Parte I::
@@ -244,8 +250,6 @@ ante la mirada de tus ojos. +
 
 === Boqueron abandonado
 
-NOTE: Huayno Ligero
-
 image::./img/boqueron-abandonado.png[]
 
 === Hortencia
@@ -275,8 +279,6 @@ Ayayayay. +
 No llores, ni tengas miedo, porque yo te quiero.
 
 === Calavera
-
-NOTE: Huayno Ligero
 
 image::./img/calavera.png[]
 
@@ -365,8 +367,6 @@ nadie ha forzado tu voluntad.
 image::./img/30-anios.png[]
 
 === Kalauyo
-
-NOTE: Huayno Calmado
 
 image::./img/kalahuyo.png[]
 
