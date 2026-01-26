@@ -41,32 +41,26 @@ Hoy cuanto vale un veintisiete, +
 es como el sol en su lago +
 lucero inmenso del mañana, +
 es lo que vale un veintisiete. +
-(BIS)
 +
 Cuando pregunten a los Apus, +
 el Cancharani respondera, +
 el Azoguine, Huajsapata, +
 cuanto vale un veintisiete. +
-(BIS)
 +
 Con sicuris, nunca olvides Abelito. +
-(BIS)
 
 Parte II::
 Si quieren callar a tu pueblo, +
 defenderás buen guerrero, +
 Sicuri apu sartañiri +
 toma el valor veintisiete. +
-(BIS)
 +
 Por eso cuando te reclamen, +
 levantarás el Jake Aru, +
 el gran vocero de tu pueblo, +
 toma el valor veintisiete. +
-(BIS)
 +
 Con sicuris, nunca olvides Abelito. +
-(BIS)
 
 === Linda Sialeña
 
@@ -91,12 +85,12 @@ audio::./audio/linda-sialena.mpeg[]
 image::./img/ponchera.png[]
 
 Ay! ponchera de las fiestas, +
-testigo de los sicuris. (BIS) +
+testigo de los sicuris. +
 
 No murmures que me vaya, de esta tierra, +
-dejando estas melodías. (BIS) +
+dejando estas melodías. +
 
-27, eternos somos AJP. (BIS) +
+27, eternos somos AJP. +
 
 == Bloque 2
 
@@ -121,26 +115,20 @@ image::./img/paja-brava.png[]
 Parte I::
 Todos me llaman paja brava cholit@, +
 Porque vivo en el campo +
-(BIS)
 +
 Con el agua, con el viento, +
 Verde nomás me mantengo +
-(BIS)
 +
 Ayayay cholit@, verde nomás me mantengo. +
-(BIS)
 
 Parte II::
 Los que tienen padre y madre cholit@, +
 Dicen que tienen caudales. +
-(BIS)
 +
 Yo no tengo padre ni madre, +
 Ni un perrito que me ladre. +
-(BIS)
 +
 Ayayay cholit@, ni un perrito que me ladre. +
-(BIS)
 
 audio::./audio/paja-brava.mpeg[]
 
@@ -218,11 +206,9 @@ image::./img/jilata.png[]
 Parte I::
 Mañana cuando tu te vayas, jilata, +
 haz de añorar tu sicuri. +
-(BIS)
 +
 Recordarás lindas imillas, jake, +
 y al próximo año regresarás. +
-(BIS)
 +
 Jilata, al 27 regresarás, +
 Wayquicha, al 27 regresarás.
@@ -230,11 +216,9 @@ Wayquicha, al 27 regresarás.
 Parte II::
 Hermano sicuri recordarás ahora, +
 todo el amor que perdistes. +
-(BIS)
 +
 Con lealtad y compromiso eterno, +
 a los principios del sicuri. +
-(BIS)
 +
 Jilata de corazón veintisiete, +
 Wayquicha de corazón AJP.
@@ -247,14 +231,14 @@ image::./img/morena.png[]
 
 audio::./audio/morena.aac[]
 
-Linda morenita de mi vida juraste ser mi compañera +
-(BIS)
+Linda morenita de mi vida +
+juraste ser mi compañera +
 
-Ahora que el tiempo ya ha pasado porque pretendes olvidarme +
-(BIS)
+Ahora que el tiempo ya ha pasado +
+porque pretendes olvidarme +
 
-Pagarás esa culpa ante la mirada de tus ojos. +
-(BIS)
+Pagarás esa culpa +
+ante la mirada de tus ojos. +
 
 == Bloque 4
 
@@ -388,22 +372,27 @@ image::./img/kalahuyo.png[]
 
 audio::./audio/kalahuyo.mpeg[]
 
+Parte I::
 Kalahuyu rincón huraño, +
 en donde el pajonal ruge, +
-y el viento quema. (3L-bis) +
+y el viento quema. +
++
 Donde los frondosos q'ullis, +
 como vigías contamplan +
-las añoranzas de mi querer. (3L-bis) +
+las añoranzas de mi querer. +
++
 Ayayay negra, las añoranzas de mi querer.
 
+Parte II::
 El arbol que crece en sombras, +
 entre rocas y peñasco, +
-de nuestro amor sabe. (3L-bis) +
+de nuestro amor sabe. +
++
 Los truenos son delatores, +
 y las noches son testigos +
-de las ansias de quererte. (3L-bis) +
-Ayayay negra, de las ansias de quererte. +
-(BIS)
+de las ansias de quererte. +
++
+Ayayay negra, de las ansias de quererte.
 
 == Miscelánea
 
@@ -431,43 +420,34 @@ Parte I::
 Un 29 de septiembre, yo te +
 conocido, al compas de las +
 melodias de nuestro sicuri. +
-(BIS)
 +
 En las visperas de San Miguel, al +
 pie de su altar, juraste ser mi +
 compañera, recuerdo imborrable. +
-(BIS)
 +
 Huancaneña, recuerdo +
 imborrable. +
-(BIS)
 
 Parte II::
 Que més pruebas de mi carifio +
 quieres huancaneña, si hasta en +
 las rocas del calvario se +
 encuentra tu nombre. +
-(BIS)
 +
 Bajo las sombras de tus cactus te +
 tuve en mis brazos bebiendo el +
 néctar cristalino de tus labios +
 rojos. +
-(BIS)
 +
 Huancaneña, de tus labios rojos. +
-(BIS)
 
 Parte III::
 Hermosa chola huancaneña, +
 vives orgullosa, en el fragor de +
 tus avales al pie del coloso. +
-(BIS)
 +
 En las arenas de tu playa escribí +
 tu nombre mirando el cielo de tus +
 ojos, todo un arco iris. +
-(BIS)
 +
 Huancaneña, todo un arco iris. +
-(BIS)
