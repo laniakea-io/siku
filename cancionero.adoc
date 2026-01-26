@@ -191,6 +191,8 @@ que juntos pasamos
 
 Linda sialeña, flor encantadora
 
+audio::./audio/linda-sialena.mpeg[]
+
 == Jilata
 
 NOTE: Huayno Ligero
@@ -237,6 +239,8 @@ audio::./audio/jilata.mpeg[]
  2 43  6
 ----
 
+audio::./audio/jj.mpeg[]
+
 == Morena
 
 image::./img/morena.png[]
@@ -276,6 +280,8 @@ Ni un perrito que me ladre. +
 +
 Ayayay cholit@, ni un perrito que me ladre. +
 (BIS)
+
+audio::./audio/paja-brava.mpeg[]
 
 == Nostalgias
 
