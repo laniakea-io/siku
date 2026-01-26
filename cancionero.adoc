@@ -1,4 +1,4 @@
-= Cancionero
+= Repertorio Candelaria 2026
 v0.1, 2026-01-23
 :toc: left
 :toc-title: Índice
