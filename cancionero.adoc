@@ -327,27 +327,31 @@ eres amor imposible linda flor puneña.
 
 === Agua Milagro
 
+_Filiberto Calderon-
+
+NOTE: Huayno Calmado
+
 image::./img/agua-milagro.png[]
 
-Cariño sobre cariño +
-yo te conoci +
-conimeñita linda +
-de mis amores.
-
-Agua milagro me distes +
+Parte I::
+Cariño sobre cariño, yo te conocí +
+conimeñita linda de mis amores.
++
+Agua milagro brindaste +
 como una prueba de amor, +
 pero tu me traicionaste +
-sin compasion.
-
+sin compasión.
++
 Ay Conimeñita linda de mi corazón, +
-pero tu me traicionaste sin compasión.
+pero tú me traicionaste sin compasión.
 
+Parte III::
 La soledad y la muerte son para mi, +
 lamentos del alma en vida que he de llevar.
-
++
 Porque si pasión existe se puede amar con frenesí, +
 pero a lo lejos tu olvido persiste igual.
-
++
 Por eso te ruego que no vuelvas mas a mí +
 porque a lo lejos tu olvido persiste igual.
 
