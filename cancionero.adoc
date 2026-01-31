@@ -148,21 +148,26 @@ _Gustavo Alatrista_
 
 image::./img/virginia.png[]
 
+Parte I::
 Voy a pedir hoy, que doblen las +
 campanas de mi corazón, +
 porque mañana me muero +
-y tú me has dejado sin tu amor; +
+y tú me has dejado sin tu amor
++
 Virginia tú eres la causa, +
 de este cariño que mata con tus +
-crueles desatinos. yo ya estoy +
-muriendo por tu amor +
-eres tu virginia +
+crueles desatinos, yo ya estoy +
+muriendo por tu amor
++
+Eres tu virginia +
 la causa de este amor
 
+Parte II::
 Del cielo voy a enviarte +
 mis caricias y mi devoción +
 para que te vengas pronto +
-a quererme más y más que ayer +
+a quererme más y más que ayer
++
 Virginia tú eres la causa, +
 de este cariño que mata +
 con tus crueles desatinos +
@@ -184,26 +189,24 @@ image::./img/nostalgias.png[]
 audio::./audio/nostalgia.mpeg[]
 
 Parte I::
-Quien tiene tu ensueño +
-paloma +
+Quien tiene tu ensueño, paloma +
 que el viento susurra.
 +
 Tenía una amante ilusión +
-pérdida en el tiempo.
+Crecida en el tiempo. +
 +
-Sin su cariño +
-triste era la vida.
+Y si no estaba +
+gris era la vida.
 
 Parte II::
-Quiso el destino un día +
+Quiso el destino, un día +
 robarme su amor.
 +
-La pena es más pena +
-y su amor +
+La pena es más pena y su amor +
 lejano y ausente.
 +
-Sin sus caricias +
-que será la vida.
+Sin su cariño +
+tristes son los días.
 
 === Jilata
 
@@ -282,35 +285,47 @@ No llores, ni tengas miedo, porque yo te quiero.
 
 image::./img/calavera.png[]
 
+Parte I::
 Todos me dicen que soy calavera +
 mentira no soy, soy un bohemio, +
 que canta sus penas +
 con su requinto
-
++
 Y así cantando en noches serenas +
 junto a tu ventana +
 huaynitos lindos, huaynitos serranos +
 para tí mi querer.
++
+Cholita, para tí mi querer,
+negrita, para tí mi querer.
 
+Parte II::
 Entre mil rosas, entre mil guindales +
 te voy mirando +
 Chucuiteña de mis esperanzas +
-suma pangarita
-
+suma pangarita.
++
 Eres mi dicha, eres mi esperanza +
-línda paisanita +
-mi corazón no tiene descanso +
+linda paisanita +
+mi corazón no tiene descanso, +
 solo por tu querer.
++
+Cholita, solo por tu querer,
+negrita, solo por tu querer.
 
+Parte III::
 Chucuito lindo asqui unajalsu +
 de aguas cristalinas +
 lava las manchas de tus malos hijos +
 para tu consuelo.
-
++
 Y así algún día en tu suelo virgen +
 renacerán pues +
 las lindas rosas, las lindas cantutas +
 de otros tiempos.
++
+Cholita, de otros tiempos,
+negrita, de otros tiempos.
 
 === Flor puneña
 
@@ -411,6 +426,35 @@ de las ansias de quererte. +
 Ayayay negra, de las ansias de quererte.
 
 == Miscelánea
+
+=== Alessandro
+
+image::./img/alessandro.jpeg[]
+
+=== Azucena
+
+_D.R._
+
+image::./img/azucena.png[]
+
+Parte I::
+Hermosa flor de Azucena, +
+testigo de mis amores, palomita.
++
+La rosa floreciendo, y yo pobre +
+padeciendo, palomita +
+Traicionero amor, y yo pobre +
+padeciendo palomita.
+
+Parte II::
+Como quieres que me vaya +
+Sabiendo que te he querido, +
+palomita.
++
+La rosa floreciendo +
+y yo pobre padeciendo, palomita +
+Traicionero amor, y yo pobre +
+padeciendo, palomita.
 
 === Diana Juventud
 
