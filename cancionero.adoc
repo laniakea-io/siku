@@ -17,7 +17,7 @@ v0.1.3
  2 2 2 122  44  6
 
  333  55    333  55     5   56
-4   34  5556   34  55565 443
+4   34  5556   34  55565 443  6
 
 2 3  56
  2 43  6
@@ -96,6 +96,8 @@ dejando estas melodías. +
 
 === Chuyma Marka
 
+NOTE: Huayno Ligero
+
 _Liber Cahui Bustincio_
 
 image::./img/chuymamarka.png[]
@@ -104,19 +106,29 @@ image::./img/chuymamarka.png[]
 
 image::./img/gabrielita.jpeg[]
 
-Linda Gabriela, de mi vida, tus ojos, tus labios son mi debilidad, +
-Besarte, abrazarte son sueños para mi, que si te vas tu ausencia de dolor me mátara, +
-No puedo olvidarte flor 27 en mis recuerdos te llevare
-
-Me hiere el frio de tu mirada, +
-Tan serca ufana, ciegas mi corazón. +
-No muestras cariño, pero tu aroma aquí, +
-En mi corazon, haces que en mis noches llore por ti,
-
-Linda gabrielita, tu amor espero, como angel que cure mi soledad, +
+Parte I::
+Linda Gabriela de mi vida,
+tus ojos, tus labios son mi debilidad, 
++
+Besarte, abrazarte son sueños para mi, +
+que si te vas tu ausencia de dolor me mátara, 
++
 No puedo olvidarte flor 27 en mis recuerdos te llevare.
 
+Parte II::
+Me hiere el frío de tu mirada, +
+Tan cerca ufana, ciegas mi corazón.
++
+No muestras cariño, pero tu aroma aquí, +
+En mi corazón, haces que en mis noches llore por ti,
++
+Linda gabrielita, tu amor espero, +
+como angel que cure mi soledad, +
+No puedo olvidarte flor 27 en mis recuerdos te llevaré.
+
 === Paja brava
+
+NOTE: Huayno Ligero
 
 _Rosendo Huirse_
 
@@ -184,7 +196,9 @@ audio::./audio/cuando-me-vaya.mp4[]
 
 === Nostalgia
 
-image::./img/nostalgias.png[]
+NOTE: Huayno Ligero
+
+image::./img/nostalgia.png[]
 
 audio::./audio/nostalgia.mpeg[]
 
@@ -253,6 +267,8 @@ ante la mirada de tus ojos. +
 
 === Boqueron abandonado
 
+NOTE: Huayno Ligero
+
 image::./img/boqueron-abandonado.png[]
 
 === Hortencia
@@ -314,9 +330,9 @@ Cholita, solo por tu querer,
 negrita, solo por tu querer.
 
 Parte III::
-Chucuito lindo asqui unajalsu +
-de aguas cristalinas +
-lava las manchas de tus malos hijos +
+Chucuito lindo asqui unajalsu, +
+de aguas cristalinas, +
+lava las manchas que un día dejaron tus malos hijos +
 para tu consuelo.
 +
 Y así algún día en tu suelo virgen +
@@ -340,6 +356,35 @@ eres amor imposible linda flor puneña.
 
 == Huaynos Calmados
 
+=== Infamia
+
+_Qhantati Ururi_
+
+image::./img/infamia.png[]
+
+Parte I::
+Cómo el viento que pasa +
+y nunca vuelve, +
+me haz engañado +
+y me dejastes.
++
+Haz destrozado mi vida, +
+mis ilusiones, +
+mujer ingrata sin corazón. +
++
+Negrita, mujer ingrata sin corazón.
+
+Parte II::
+Al santo padre imploro +
+para que juzgue +
+y te castigue por tu traición.
++
+Y cuando sientas el peso +
+de tu infamia, +
+sufrirás hasta en la tumba.
++
+Negrita, sufrirás hasta en la tumba.
+
 === Agua Milagro
 
 _Filiberto Calderon_
@@ -351,6 +396,19 @@ image::./img/agua-milagro.png[]
 Parte I::
 Cariño sobre cariño, yo te conocí +
 conimeñita linda de mis amores.
++
+Agua milagro brindaste +
+como una prueba de amor, +
+pero tu me traicionaste +
+sin compasión.
++
+Ay Conimeñita linda de mi corazón, +
+pero tú me traicionaste sin compasión.
+
+Parte II::
+
+Entre los cactus de flores blancas, negrita +
+llorabas amargamente.
 +
 Agua milagro brindaste +
 como una prueba de amor, +
@@ -372,28 +430,38 @@ porque a lo lejos tu olvido persiste igual.
 
 === Camacho
 
-Pronto disponible
+Pronto disponible...
 
 === Despedida Puneña
+
+NOTE: Huayno Calmado
 
 image::./img/despedida-punenia.png[]
 
 Parte I::
 Compuertas del alto Puno +
-tu no ma sabes como lloré. +
+tu nomás sabes como lloré.
++
 Al despedirme +
-como sangraba mi corazon. +
+como sangraba mi corazón.
++
 Ay! mi palomita, +
 cómo sangraba mi corazón.
 
 Parte II::
 Con un puñal en la mano, +
-quien te ha obligado que me quieras. +
-Ni tampoco nadie a forzado tu  voluntad. +
+quien te ha obligado que me quieras.
++
+Ni tampoco nadie a forzado tu  voluntad.
++
 Ay! mi palomita, +
 nadie ha forzado tu voluntad.
 
 === Treinta años
+
+_Russo Giovani Núñez Miraval_
+
+NOTE: Huayno Calmado
 
 image::./img/30-anios.png[]
 
@@ -458,6 +526,8 @@ padeciendo, palomita.
 
 === Diana Juventud
 
+_Tradicional D.R._
+
 image::./img/diana-juventud.png[]
 
 === Diana H'atariy
@@ -511,3 +581,7 @@ tu nombre mirando el cielo de tus +
 ojos, todo un arco iris. +
 +
 Huancaneña, todo un arco iris. +
+
+=== Noche serena
+
+Pronto disponible...
