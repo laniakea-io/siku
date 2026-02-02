@@ -7,6 +7,11 @@ v0.1.4
 :sectnumlevels: 2
 :icons: font
 
+== ✦ Código QR ✦
+
+.Dirección del sitio web https://laniakea-io.github.io/siku/
+image::./img/qr-code.jpg[,250]
+
 == Bloque 1
 
 === J.J.
