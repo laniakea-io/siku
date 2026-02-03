@@ -3,15 +3,17 @@ v0.1.4
 :toc: left
 :toc-title: Índice
 :sectanchors:
-:sectnums:
 :sectnumlevels: 2
 :icons: font
+:imagesdir: ./img/
+:stylesdir: ./css/
+:stylesheet: asciidoctor.css
 
-== ✦ Código QR ✦
+:sectnums!:
+== Código QR del sitio web
+image::qr-code.jpg[,250]
 
-.Dirección del sitio web https://laniakea-io.github.io/siku/
-image::./img/qr-code.jpg[,250]
-
+:sectnums:
 == Bloque 1
 
 === J.J.
@@ -69,7 +71,7 @@ Con sicuris, nunca olvides Abelito. +
 
 === Linda Sialeña
 
-image::./img/linda-sialeña.png[]
+image::linda-sialeña.png[]
 
 En las orillas de un lago azul, +
 linda sialeña, +
@@ -87,7 +89,7 @@ audio::./audio/linda-sialena.mpeg[]
 
 === Ponchera
 
-image::./img/ponchera.png[]
+image::ponchera.png[]
 
 Ay! ponchera de las fiestas, +
 testigo de los sicuris. +
@@ -105,11 +107,11 @@ NOTE: Huayno Ligero
 
 _Liber Cahui Bustincio_
 
-image::./img/chuymamarka.png[]
+image::chuymamarka.png[]
 
 === Gabrielita
 
-image::./img/gabrielita.jpeg[]
+image::gabrielita.jpeg[]
 
 Parte I::
 Linda Gabriela de mi vida,
@@ -138,7 +140,7 @@ NOTE: Huayno Ligero
 
 _Rosendo Huirse_
 
-image::./img/paja-brava.png[]
+image::paja-brava.png[]
 
 Parte I::
 Todos me llaman paja brava cholit@, +
@@ -164,7 +166,7 @@ audio::./audio/paja-brava.mpeg[]
 
 _Gustavo Alatrista_
 
-image::./img/virginia.png[]
+image::virginia.png[]
 
 Parte I::
 Voy a pedir hoy, que doblen las +
@@ -196,7 +198,7 @@ por tu amor
 
 === Cuando me vaya
 
-image::./img/cuando-me-vaya.jpeg[]
+image::cuando-me-vaya.jpeg[]
 
 audio::./audio/cuando-me-vaya.mp4[]
 
@@ -204,7 +206,7 @@ audio::./audio/cuando-me-vaya.mp4[]
 
 NOTE: Huayno Ligero
 
-image::./img/nostalgia.png[]
+image::nostalgia.png[]
 
 audio::./audio/nostalgia.mpeg[]
 
@@ -230,7 +232,7 @@ tristes son los días.
 
 === Jilata
 
-image::./img/jilata.png[]
+image::jilata.png[]
 
 Parte I::
 Mañana cuando tu te vayas, jilata, +
@@ -256,7 +258,7 @@ audio::./audio/jilata.mpeg[]
 
 === La Morena
 
-image::./img/morena.png[]
+image::morena.png[]
 
 audio::./audio/morena.aac[]
 
@@ -275,13 +277,13 @@ ante la mirada de tus ojos. +
 
 NOTE: Huayno Ligero
 
-image::./img/boqueron-abandonado.png[]
+image::boqueron-abandonado.png[]
 
 === Hortencia
 
 _Captacion Qhantati Ururi_
 
-image::./img/hortencia.png[]
+image::hortencia.png[]
 
 Parte I::
 Entre las flores de mi jardin, +
@@ -305,7 +307,7 @@ No llores, ni tengas miedo, porque yo te quiero.
 
 === Calavera
 
-image::./img/calavera.png[]
+image::calavera.png[]
 
 Parte I::
 Todos me dicen que soy calavera +
@@ -351,7 +353,7 @@ negrita, de otros tiempos.
 
 === Flor puneña
 
-image::./img/flor-punenia.jpeg[]
+image::flor-punenia.jpeg[]
 
 Quisiera tenerte aquí siempre a mí lado, +
 quisiera tenerte siempre en cada amanecer.
@@ -366,7 +368,7 @@ eres amor imposible linda flor puneña.
 
 _Qhantati Ururi_
 
-image::./img/infamia.png[]
+image::infamia.png[]
 
 Parte I::
 Cómo el viento que pasa +
@@ -397,7 +399,7 @@ _Filiberto Calderon_
 
 NOTE: Huayno Calmado
 
-image::./img/agua-milagro.png[]
+image::agua-milagro.png[]
 
 Parte I::
 Cariño sobre cariño, yo te conocí +
@@ -442,7 +444,7 @@ Pronto disponible...
 
 NOTE: Huayno Calmado
 
-image::./img/despedida-punenia.png[]
+image::despedida-punenia.png[]
 
 Parte I::
 Compuertas del alto Puno +
@@ -469,11 +471,11 @@ _Russo Giovani Núñez Miraval_
 
 NOTE: Huayno Calmado
 
-image::./img/30-anios.png[]
+image::30-anios.png[]
 
 === Kalauyo
 
-image::./img/kalahuyo.png[]
+image::kalahuyo.png[]
 
 audio::./audio/kalahuyo.mpeg[]
 
@@ -503,13 +505,13 @@ Ayayay negra, de las ansias de quererte.
 
 === Alessandro
 
-image::./img/alessandro.jpeg[]
+image::alessandro.jpeg[]
 
 === Azucena
 
 _D.R._
 
-image::./img/azucena.png[]
+image::azucena.png[]
 
 Parte I::
 Hermosa flor de Azucena, +
@@ -534,21 +536,21 @@ padeciendo, palomita.
 
 _Tradicional D.R._
 
-image::./img/diana-juventud.png[]
+image::diana-juventud.png[]
 
 === Diana H'atariy
 
 _Mario Hilari Calderón_
 
-image::./img/diana-hatariy.png[]
+image::diana-hatariy.png[]
 
 === Flavio
 
-image::./img/flavio.png[]
+image::flavio.png[]
 
 === Veinti-nueve (29) de septiembre
 
-image::./img/29-septiembre.png[]
+image::29-septiembre.png[]
 
 audio::./audio/29-septiembre.mpeg[]
 
