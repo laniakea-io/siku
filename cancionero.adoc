@@ -5,13 +5,13 @@ v0.1.4
 :sectanchors:
 :sectnumlevels: 2
 :icons: font
-:imagesdir: ./img/
+:imagesdir: ./assets/
 :stylesdir: ./css/
 :stylesheet: asciidoctor.css
 
 :sectnums!:
 == Código QR del sitio web
-image::qr-code.jpg[,250]
+image::img/qr-code.jpg[,250]
 
 :sectnums:
 == Bloque 1
@@ -30,7 +30,7 @@ image::qr-code.jpg[,250]
  2 43  6
 ----
 
-audio::./audio/jj.mpeg[]
+audio::audio/jj.mpeg[]
 
 === Abelito
 
@@ -71,7 +71,7 @@ Con sicuris, nunca olvides Abelito. +
 
 === Linda Sialeña
 
-image::linda-sialeña.png[]
+image::img/linda-sialeña.png[]
 
 En las orillas de un lago azul, +
 linda sialeña, +
@@ -85,11 +85,11 @@ que juntos pasamos
 
 Linda sialeña, flor encantadora
 
-audio::./audio/linda-sialena.mpeg[]
+audio::audio/linda-sialena.mpeg[]
 
 === Ponchera
 
-image::ponchera.png[]
+image::img/ponchera.png[]
 
 Ay! ponchera de las fiestas, +
 testigo de los sicuris. +
@@ -107,18 +107,18 @@ NOTE: Huayno Ligero
 
 _Liber Cahui Bustincio_
 
-image::chuymamarka.png[]
+image::img/chuymamarka.png[]
 
 === Gabrielita
 
-image::gabrielita.jpeg[]
+image::img/gabrielita.jpeg[]
 
 Parte I::
 Linda Gabriela de mi vida,
 tus ojos, tus labios son mi debilidad.
 +
 Besarte, abrazarte son sueños para mi, +
-que si te vas tu ausencia de dolor me matará. 
+que si te vas tu ausencia de dolor me matará.
 +
 No puedo olvidarte flor 27 en mis recuerdos te llevaré.
 
@@ -130,7 +130,7 @@ No muestras cariño, pero tu aroma aquí, +
 en mi corazón, haces que en mis noches llore por ti,
 +
 Linda gabrielita, tu amor espero, +
-como angel que cure mi soledad, 
+como angel que cure mi soledad,
 +
 No puedo olvidarte flor 27 en mis recuerdos te llevaré.
 
@@ -140,7 +140,7 @@ NOTE: Huayno Ligero
 
 _Rosendo Huirse_
 
-image::paja-brava.png[]
+image::img/paja-brava.png[]
 
 Parte I::
 Todos me llaman paja brava cholit@, +
@@ -160,13 +160,13 @@ ni un perrito que me ladre. +
 +
 Ayayay cholit@, ni un perrito que me ladre. +
 
-audio::./audio/paja-brava.mpeg[]
+audio::audio/paja-brava.mpeg[]
 
 === Virginia
 
 _Gustavo Alatrista_
 
-image::virginia.png[]
+image::img/virginia.png[]
 
 Parte I::
 Voy a pedir hoy, que doblen las +
@@ -198,17 +198,17 @@ por tu amor
 
 === Cuando me vaya
 
-image::cuando-me-vaya.jpeg[]
+image::img/cuando-me-vaya.jpeg[]
 
-audio::./audio/cuando-me-vaya.mp4[]
+audio::audio/cuando-me-vaya.mp4[]
 
 === Nostalgia
 
 NOTE: Huayno Ligero
 
-image::nostalgia.png[]
+image::img/nostalgia.png[]
 
-audio::./audio/nostalgia.mpeg[]
+audio::audio/nostalgia.mpeg[]
 
 Parte I::
 Quien tiene tu ensueño, paloma +
@@ -232,7 +232,7 @@ tristes son los días.
 
 === Jilata
 
-image::jilata.png[]
+image::img/jilata.png[]
 
 Parte I::
 Mañana cuando tu te vayas, jilata, +
@@ -254,13 +254,13 @@ a los principios del sicuri. +
 Jilata de corazón veintisiete, +
 Wayquicha de corazón AJP.
 
-audio::./audio/jilata.mpeg[]
+audio::audio/jilata.mpeg[]
 
 === La Morena
 
-image::morena.png[]
+image::img/morena.png[]
 
-audio::./audio/morena.aac[]
+audio::audio/morena.aac[]
 
 Linda morenita de mi vida, +
 juraste ser mi compañera +
@@ -277,13 +277,13 @@ ante la mirada de tus ojos. +
 
 NOTE: Huayno Ligero
 
-image::boqueron-abandonado.png[]
+image::img/boqueron-abandonado.png[]
 
 === Hortencia
 
 _Captacion Qhantati Ururi_
 
-image::hortencia.png[]
+image::img/hortencia.png[]
 
 Parte I::
 Entre las flores de mi jardin, +
@@ -307,7 +307,7 @@ No llores, ni tengas miedo, porque yo te quiero.
 
 === Calavera
 
-image::calavera.png[]
+image::img/calavera.png[]
 
 Parte I::
 Todos me dicen que soy calavera +
@@ -353,7 +353,7 @@ negrita, de otros tiempos.
 
 === Flor puneña
 
-image::flor-punenia.jpeg[]
+image::img/flor-punenia.jpeg[]
 
 Quisiera tenerte aquí siempre a mí lado, +
 quisiera tenerte siempre en cada amanecer.
@@ -368,7 +368,7 @@ eres amor imposible linda flor puneña.
 
 _Qhantati Ururi_
 
-image::infamia.png[]
+image::img/infamia.png[]
 
 Parte I::
 Cómo el viento que pasa +
@@ -399,7 +399,7 @@ _Filiberto Calderon_
 
 NOTE: Huayno Calmado
 
-image::agua-milagro.png[]
+image::img/agua-milagro.png[]
 
 Parte I::
 Cariño sobre cariño, yo te conocí +
@@ -444,7 +444,7 @@ Pronto disponible...
 
 NOTE: Huayno Calmado
 
-image::despedida-punenia.png[]
+image::img/despedida-punenia.png[]
 
 Parte I::
 Compuertas del alto Puno +
@@ -471,13 +471,13 @@ _Russo Giovani Núñez Miraval_
 
 NOTE: Huayno Calmado
 
-image::30-anios.png[]
+image::img/30-anios.png[]
 
 === Kalauyo
 
-image::kalahuyo.png[]
+image::img/kalahuyo.png[]
 
-audio::./audio/kalahuyo.mpeg[]
+audio::audio/kalahuyo.mpeg[]
 
 Parte I::
 Kalahuyu rincón huraño, +
@@ -505,13 +505,13 @@ Ayayay negra, de las ansias de quererte.
 
 === Alessandro
 
-image::alessandro.jpeg[]
+image::img/alessandro.jpeg[]
 
 === Azucena
 
 _D.R._
 
-image::azucena.png[]
+image::img/azucena.png[]
 
 Parte I::
 Hermosa flor de Azucena, +
@@ -536,23 +536,23 @@ padeciendo, palomita.
 
 _Tradicional D.R._
 
-image::diana-juventud.png[]
+image::img/diana-juventud.png[]
 
 === Diana H'atariy
 
 _Mario Hilari Calderón_
 
-image::diana-hatariy.png[]
+image::img/diana-hatariy.png[]
 
 === Flavio
 
-image::flavio.png[]
+image::img/flavio.png[]
 
 === Veinti-nueve (29) de septiembre
 
-image::29-septiembre.png[]
+image::img/29-septiembre.png[]
 
-audio::./audio/29-septiembre.mpeg[]
+audio::audio/29-septiembre.mpeg[]
 
 Parte I::
 Un 29 de septiembre, yo te +
