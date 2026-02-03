@@ -1,4 +1,4 @@
-= Repertorio Candelaria 2026
+= AJP 27 de Junio | Repertorio Candelaria 2026
 v0.1.4
 :toc: left
 :toc-title: Índice
@@ -34,14 +34,7 @@ audio::audio/jj.mpeg[]
 
 === Abelito
 
-   2 333 33-322 233    3    5   5    56
-  4 2   3      1   33-3 3444 555 4334  6
-
-   5    5    3333223    3    5    5    56
-  5 4433 55-5       33-3 3444 55-5 4334  6
-
-  332    5    56
-     33-5 4334  6
+image::img/abelito.png[]
 
 Parte I::
 Hoy cuanto vale un veintisiete, +
@@ -107,7 +100,7 @@ NOTE: Huayno Ligero
 
 _Liber Cahui Bustincio_
 
-image::img/chuymamarka.png[]
+image::img/chuyma-marka.png[]
 
 === Gabrielita
 
