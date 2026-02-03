@@ -161,6 +161,8 @@ _Gustavo Alatrista_
 
 image::img/virginia.png[]
 
+audio::audio/virginia.mpeg[]
+
 Parte I::
 Voy a pedir hoy, que doblen las +
 campanas de mi corazón, +
