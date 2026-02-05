@@ -281,24 +281,28 @@ _Captacion Qhantati Ururi_
 image::img/hortencia.png[]
 
 Parte I::
-Entre las flores de mi jardin, +
-Hortencia, tu eres la mas preferida +
-por eso te quiero. +
-tomaremos una copa, +
-tomaremos otra copa +
-sausin inganista, tanta normalista +
-Ayayayay. +
-uta sausin inganista tanta normalista.
+Entre las flores de mi jardín, +
+Hortencia, tu eres la más preferida +
+por eso te quiero.
++
+Mi corazón, yo te lo di, no llores +
+No llores, ni tengas pena, +
+porque yo te quiero.
++
+Ayayayay, +
+No llores, ni tengas miedo, porque yo te quiero. 
 
 Parte II::
 Para qué quiero yo la vida, para qué, +
 si ya no tengo tu cariño +
-que me dio la vida. +
-Mi corazón, yo te lo di, Hortencia +
-No llores, ni tengas miedo, +
-porque yo te quiero. +
-Ayayayay. +
-No llores, ni tengas miedo, porque yo te quiero.
+que me dio la vida.
++
+tomaremos una copa, +
+tomaremos otra copa +
+sausin inganista, tanta normalista
++
+Ayayayay, +
+uta sausin inganista tanta normalista. 
 
 === Calavera
 
@@ -315,10 +319,23 @@ junto a tu ventana +
 huaynitos lindos, huaynitos serranos +
 para tí mi querer.
 +
-Cholita, para tí mi querer,
+Cholita, para tí mi querer, +
 negrita, para tí mi querer.
 
 Parte II::
+Chucuito lindo asqui unajalsu, +
+de aguas cristalinas, +
+lava las manchas que en tí han dejado, tus malos hijos +
++
+Y así algún día en tu suelo virgen +
+renacerán pues +
+las lindas rosas, las lindas cantutas +
+de otros tiempos.
++
+Cholita, de otros tiempos, +
+negrita, de otros tiempos.
+
+Parte III::
 Entre mil rosas, entre mil guindales +
 te voy mirando +
 Chucuiteña de mis esperanzas +
@@ -329,22 +346,8 @@ linda paisanita +
 mi corazón no tiene descanso, +
 solo por tu querer.
 +
-Cholita, solo por tu querer,
+Cholita, solo por tu querer, +
 negrita, solo por tu querer.
-
-Parte III::
-Chucuito lindo asqui unajalsu, +
-de aguas cristalinas, +
-lava las manchas que un día dejaron tus malos hijos +
-para tu consuelo.
-+
-Y así algún día en tu suelo virgen +
-renacerán pues +
-las lindas rosas, las lindas cantutas +
-de otros tiempos.
-+
-Cholita, de otros tiempos,
-negrita, de otros tiempos.
 
 === Flor puneña
 
@@ -411,7 +414,7 @@ pero tú me traicionaste sin compasión.
 Parte II::
 
 Entre los cactus de flores blancas, negrita +
-llorabas amargamente.
+llorabas amargamente, tu decepción.
 +
 Agua milagro brindaste +
 como una prueba de amor, +
