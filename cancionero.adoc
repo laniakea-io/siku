@@ -313,6 +313,8 @@ NOTE: Huayno Ligero
 
 image::img/boqueron-abandonado.png[]
 
+audio::audio/boqueron-abandonado.mpeg[]
+
 === Hortencia
 
 _Captacion Qhantati Ururi_
@@ -341,7 +343,7 @@ tomaremos otra copa +
 sausin inganista, tanta normalista
 +
 Ayayayay, +
-uta sausin inganista tanta normalista. 
+uta sausin inganista tanta normalista.
 
 === Calavera
 
@@ -406,6 +408,8 @@ eres amor imposible linda flor puneña.
 _Qhantati Ururi_
 
 image::img/infamia.png[]
+
+audio::audio/infamia.mpeg[]
 
 Parte I::
 Cómo el viento que pasa +
@@ -483,6 +487,8 @@ NOTE: Huayno Calmado
 
 image::img/despedida-punenia.png[]
 
+audio::audio/despedida-punena.mpeg[]
+
 Parte I::
 Compuertas del alto Puno +
 tu nomás sabes como lloré.
@@ -509,6 +515,8 @@ _Russo Giovani Núñez Miraval_
 NOTE: Huayno Calmado
 
 image::img/30-anios.png[]
+
+audio::audio/30-anos.mpeg[]
 
 [reftext="Kalauyo"]
 === Kalauyo kbd:[TEMA DE CONCURSO]
@@ -550,6 +558,8 @@ image::img/alessandro.jpeg[]
 _D.R._
 
 image::img/azucena.png[]
+
+audio::audio/azucena.mpeg[]
 
 Parte I::
 Hermosa flor de Azucena, +
