@@ -1,5 +1,4 @@
 = AJP 27 de Junio | Repertorio Candelaria 2026
-v0.1.5
 :toc: left
 :toc-title: Índice
 :sectanchors:
@@ -8,15 +7,51 @@ v0.1.5
 :imagesdir: ./assets/
 :stylesdir: ./css/
 :stylesheet: asciidoctor.css
+:experimental:
+v0.1.6
 
 :sectnums!:
 == Código QR del sitio web
-image::img/qr-code.jpg[,250]
+
+image::img/qr-code.jpg[,260]
+
+== Índice alfabético
+
+. <<Abelito>> +
+. <<Agua Milagro>> +
+. <<Alessandro>> +
+. <<Azucena>> +
+. <<Boqueron abandonado>> +
+. <<Calavera>> +
+. <<Camacho>> +
+. <<Chuyma Marka>> +
+. <<Cuando me vaya>> +
+. <<Despedida Puneña>> +
+. <<Diana H'atariy>> +
+. <<Diana Juventud>> +
+. <<Flavio>> +
+. <<Flor puneña>> +
+. <<Gabrielita>> +
+. <<Hortencia>> +
+. <<Infamia>> +
+. <<J.J.>> +
+. <<Jilata>> +
+. <<Kalauyo>> +
+. <<La Morena>> +
+. <<Linda Sialeña>> +
+. <<Noche serena>> +
+. <<Nostalgia>> +
+. <<Paja brava>> +
+. <<Ponchera>> +
+. <<Treinta años>> +
+. <<Veintinueve de septiembre>> +
+. <<Virginia>>
 
 :sectnums:
 == Bloque 1
 
-=== J.J.
+[reftext="J.J."]
+=== J.J. kbd:[TEMA DE CONCURSO]
 
 [source]
 ----
@@ -82,6 +117,8 @@ audio::audio/linda-sialena.mpeg[]
 
 === Ponchera
 
+_Arcadio Calderón_
+
 image::img/ponchera.png[]
 
 Ay! ponchera de las fiestas, +
@@ -90,7 +127,7 @@ testigo de los sicuris. +
 No murmures que me vaya, de esta tierra, +
 dejando estas melodías. +
 
-27, eternos somos AJP. +
+Veintisiete (27), eternos somos AJP.
 
 == Bloque 2
 
@@ -191,7 +228,8 @@ por tu amor
 
 == Bloque 3
 
-=== Cuando me vaya
+[reftext="Cuando me vaya"]
+=== Cuando me vaya (kencha moza) kbd:[TEMA DE CONCURSO]
 
 image::img/cuando-me-vaya.jpeg[]
 
@@ -225,7 +263,8 @@ lejano y ausente.
 Sin su cariño +
 tristes son los días.
 
-=== Jilata
+[reftext="Jilata"]
+=== Jilata kbd:[TEMA DE CONCURSO]
 
 image::img/jilata.png[]
 
@@ -253,7 +292,7 @@ audio::audio/jilata.mpeg[]
 
 === La Morena
 
-image::img/morena.png[]
+image::img/morena.jpg[]
 
 audio::audio/morena.aac[]
 
@@ -290,7 +329,7 @@ No llores, ni tengas pena, +
 porque yo te quiero.
 +
 Ayayayay, +
-No llores, ni tengas miedo, porque yo te quiero. 
+No llores, ni tengas pena, porque yo te quiero.
 
 Parte II::
 Para qué quiero yo la vida, para qué, +
@@ -471,7 +510,8 @@ NOTE: Huayno Calmado
 
 image::img/30-anios.png[]
 
-=== Kalauyo
+[reftext="Kalauyo"]
+=== Kalauyo kbd:[TEMA DE CONCURSO]
 
 image::img/kalahuyo.png[]
 
@@ -536,7 +576,8 @@ _Tradicional D.R._
 
 image::img/diana-juventud.png[]
 
-=== Diana H'atariy
+[reftext="Diana H'atariy"]
+=== Diana H'atariy kbd:[TEMA DE CONCURSO]
 
 _Mario Hilari Calderón_
 
@@ -546,7 +587,7 @@ image::img/diana-hatariy.png[]
 
 image::img/flavio.png[]
 
-=== Veinti-nueve (29) de septiembre
+=== Veintinueve de septiembre
 
 image::img/29-septiembre.png[]
 

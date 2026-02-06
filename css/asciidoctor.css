@@ -15,6 +15,10 @@ html {
   color: white;
 }
 
+#toc li a {
+  font-size: 115% !important;
+}
+
 a {
   background: none;
 }
@@ -287,6 +291,7 @@ a img {
   border: 0;
 }
 p {
+  font-size: 115% !important;
   line-height: 1.6;
   margin-bottom: 1.25em;
   text-rendering: optimizeLegibility;
@@ -305,7 +310,7 @@ h4,
 h5,
 h6 {
   font-family: "Open Sans", "DejaVu Sans", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
   color: #ba3925;
   text-rendering: optimizeLegibility;
