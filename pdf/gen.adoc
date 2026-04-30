@@ -1,0 +1,81 @@
+= Repertorio
+:toc: left
+:toc-title: Índice
+:sectnumlevels: 2
+:stylesheet: ./asciidoctor.css
+:pdf-page-size: [3.2in, 6in]
+:pdf-page-margin: [0.1cm, 0.1cm, 1.1cm, 0.1cm]
+v1.7
+
+== name
+
+author | type
+[source]
+----
+  6   5      5        5.  5.   6
+6   5   4444   4.4344   5.  55   6
+
+----
+lyrics
+
+
+== JJ
+
+undefined | normal
+[source]
+----
+3   2   3   2     32    56
+  2   2   2   122    44    6
+---
+ 333   55    333   55      5    56
+4   34   5556   34   55565   443   6
+---
+2   3    56 
+  2   43    6
+
+----
+undefined
+
+
+== Abandonada
+
+Andres Miraval | normal
+[source]
+----
+  6   5      5        5.  5.   6
+6   5   4444   4.4344   5.  55   6
+---
+3.   3.  32   3.       5.  5.   6
+  33   4.   33  4.4344   5.  55   6
+---
+  6   5        5.  5.   6
+6   5   4.4344   5.  55   6
+
+----
+Como la canción te vas quedando, +
+sola y esperando, mal abandonada. (BIS)
+
+Mañana quedaran, tus ojos más tristes, +
+tu alma ausente, hemos de olvidarte. (BIS)
+
+Hay mi palomita, sola y +
+esperando, mal abandonada. (BIS)
+
+
+== Huayno
+
+undefined | normal
+[source]
+----
+  6   6   5       56
+6.  5   5   44434.   6
+---
+3   4  334  32   334    556
+  3  4.   4.   2     44     6
+---
+334  322   334    556
+    4.   2     44     6
+
+----
+undefined
+

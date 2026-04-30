@@ -1,0 +1,8 @@
+= Repertorio
+:toc: left
+:toc-title: Índice
+:sectnumlevels: 2
+:stylesheet: ./asciidoctor.css
+:pdf-page-size: [3.2in, 6in]
+:pdf-page-margin: [0.1cm, 0.1cm, 1.1cm, 0.1cm]
+v1.7
