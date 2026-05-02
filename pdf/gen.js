@@ -9,13 +9,13 @@ fs.readFile("./repertorio.toml", "utf-8", (err, data) => {
       if (song.img === undefined) {
         img = "";
       } else {
-        img = `image::src/${song.img}[]`;
+        img = `image::img/${song.img}[]`;
       }
 
       if (song.audio === undefined) {
         audio = "";
       } else {
-        audio = `audio::src/${song.audio}[]`;
+        audio = `audio::audio/${song.audio}[]`;
       }
 
       if (song.lyrics === undefined) {
