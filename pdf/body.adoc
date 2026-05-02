@@ -14,7 +14,7 @@ undefined | Ligero
   2   43    6
 ----
 
-audio::src/jj.mpeg[]
+audio::audio/jj.mpeg[]
 
 
 == Abandonada
@@ -31,8 +31,8 @@ Andres Miraval | Ligero
   6   5        5.  5.   6
 6   5   4.4344   5.  55   6
 ----
-image::src/abandonada.png[]
-audio::src/abandonada.mpeg[]
+image::img/abandonada.png[]
+audio::audio/abandonada.mpeg[]
 Como la canción te vas quedando, +
 sola y esperando, mal abandonada. (BIS)
 
@@ -67,7 +67,7 @@ Liber Cahui Bustincio | Ligero
 ----
  
 ----
-image::src/chuyma-marka.png[]
+image::img/chuyma-marka.png[]
 
 
 
@@ -78,8 +78,8 @@ Liber Cahui Bustincio | Ligero
 ----
  
 ----
-image::src/cuando-me-vaya.jpeg[]
-audio::src/cuando-me-vaya.mp4[]
+image::img/cuando-me-vaya.jpeg[]
+audio::audio/cuando-me-vaya.mp4[]
 
 
 == Agua Milagro
@@ -89,7 +89,7 @@ Filiberto Calderon | Calmado
 ----
  
 ----
-image::src/agua-milagro.png[]
+image::img/agua-milagro.png[]
 
 Parte I::
 Cariño sobre cariño, yo te conocí +
@@ -141,7 +141,7 @@ porque a lo lejos tu olvido persiste igual.
 54  5556      5   6
 ----
 
-audio::src/.mp3[]
+audio::audio/.mp3[]
  
 
 == Cruz de mayo?
@@ -159,5 +159,5 @@ audio::src/.mp3[]
 544  5     6
 ----
 
-audio::src/.mp3[]
+audio::audio/.mp3[]
  
