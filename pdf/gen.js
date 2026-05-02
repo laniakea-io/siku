@@ -6,6 +6,24 @@ fs.readFile("./repertorio.toml", "utf-8", (err, data) => {
     console.error(err);
   } else {
     toml.parse(data).source.forEach((song) => {
+      if (song.img === undefined) {
+        img = "";
+      } else {
+        img = `image::src/${song.img}[]`;
+      }
+
+      if (song.audio === undefined) {
+        audio = "";
+      } else {
+        audio = `audio::src/${song.audio}[]`;
+      }
+
+      if (song.lyrics === undefined) {
+        lyrics = "";
+      } else {
+        lyrics = song.lyrics;
+      }
+
       let template = `
 == ${song.name}\n
 ${song.author} | ${song.type}
@@ -13,10 +31,9 @@ ${song.author} | ${song.type}
 ----
 ${song.numerofonia}
 ----
-${song.lyrics}
-`;
-//image::src/${song.img}[]
-//audio::src/${song.audio}[]\n
+${img}
+${audio}
+${lyrics}`;
       console.log(template);
     });
   }
