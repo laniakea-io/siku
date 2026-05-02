@@ -369,9 +369,13 @@ small {
   line-height: inherit;
 }
 code {
-  font-family: "Droid Sans Mono", "DejaVu Sans Mono", monospace;
+  font-family: "JetBrains Mono", "Droid Sans Mono", "DejaVu Sans Mono", monospace;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.9);
+  font-size: 16px !important;
+  @media screen and (min-width: 768px) {
+    font-size: 20px !important;
+  }
 }
 ul,
 ol,
@@ -1096,8 +1100,11 @@ table.tableblock.fit-content > caption.title {
 .listingblock > .content > pre {
   border-radius: 4px;
   overflow-x: auto;
-  padding: 1em;
+  padding: 10px 0px;
   font-size: 0.8125em;
+  @media screen and (min-width: 768px) {
+    padding: 1em;
+  }
 }
 @media screen and (min-width: 768px) {
   .literalblock pre,
