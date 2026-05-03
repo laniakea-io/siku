@@ -1,0 +1,350 @@
+
+== JJ
+
+Estilo: Ligero
+[source]
+----
+3   2   3   2     32    56
+  2   2   2   122    44    6
+---
+ 333   55    333   55      5    56
+4   34   5556   34   55565   443   6
+---
+2   3    56 
+  2   43    6
+----
+
+audio::audio/jj.mpeg[]
+
+
+== Abandonada
+
+Andres Miraval | Estilo: Ligero
+[source]
+----
+  6   5      5        5.  5.   6
+6   5   4444   4.4344   5.  55   6
+---
+3.   3.  32   3.       5.  5.   6
+  33   4.   33  4.4344   5.  55   6
+---
+  6   5        5.  5.   6
+6   5   4.4344   5.  55   6
+----
+
+
+Como la canción te vas quedando, +
+sola y esperando, mal abandonada. (BIS)
+
+Mañana quedaran, tus ojos más tristes, +
+tu alma ausente, hemos de olvidarte. (BIS)
+
+Hay mi palomita, sola y +
+esperando, mal abandonada. (BIS)
+
+== ??
+
+Estilo: Ligero
+[source]
+----
+  6   6   5       56
+6.  5   5   44434.   6
+---
+3   4  334  32   334    556
+  3  4.   4.   2     44     6
+---
+334  322   334    556
+    4.   2     44     6
+----
+
+
+
+
+== Chuyma Marka
+
+Liber Cahui Bustincio | Estilo: Ligero
+[source]
+----
+211-11  2-33      233
+      11    2-11-1   34
+---
+  33   33-2     5    55-5     7
+4   34     3-44   55     5-66   6
+---
+   5   55-5     7
+55   44    5-66   6
+----
+image::img/chuyma-marka.png[]
+
+
+
+== Cuando me vaya (kencha moza)
+
+Liber Cahui Bustincio | Estilo: Ligero
+[source]
+----
+  3  3333  2..  2   3    3
+4   3    2    1   2   32   4
+---
+3   4   4   34    3   4   556
+  3   4   3    4..  3   44   6
+---
+   7   6    5    3   4   556
+66   6   55   4..  3   44    6
+----
+
+audio::audio/cuando-me-vaya.mp4[]
+
+
+== Agua Milagro
+
+Filiberto Calderon | Estilo: Calmado
+[source]
+----
+322   33   33   5556  6
+   22   44   44     6   56
+---
+   5556  6   5   33  5556  6
+544    6   5   44  44    6   56
+---
+322    33    33    5556   6
+    22    44    44      6   56
+----
+
+
+Parte I::
+Cariño sobre cariño, yo te conocí +
+conimeñita linda de mis amores.
++
+Agua milagro brindaste +
+como una prueba de amor, +
+pero tu me traicionaste +
+sin compasión.
++
+Ay Conimeñita linda de mi corazón, +
+pero tú me traicionaste sin compasión.
+
+Parte II::
+
+Entre los cactus de flores blancas, negrita +
+llorabas amargamente, tu decepción.
++
+Agua milagro brindaste +
+como una prueba de amor, +
+pero tu me traicionaste +
+sin compasión.
++
+Ay Conimeñita linda de mi corazón, +
+pero tú me traicionaste sin compasión.
+
+Parte III::
+La soledad y la muerte son para mi, +
+lamentos del alma en vida que he de llevar.
++
+Porque si pasión existe se puede amar con frenesí, +
+pero a lo lejos tu olvido persiste igual.
++
+Por eso te ruego que no vuelvas más a mí +
+porque a lo lejos tu olvido persiste igual.
+
+== Patat Jalari
+
+Estilo: Ligero
+[source]
+----
+ 3333  5556    3   5    77765  6
+4    34    4333  4  5556     5   6
+---
+  5     5       3   5    77765  6
+34  4.34  4.4333  4  5556     5   6
+---
+  5     77765   6
+54  5556      5   6
+----
+
+audio::audio/.mp3[]
+ 
+
+== Tres de mayo
+
+Estilo: Ligero
+[source]
+----
+ 33332   323      3   434      5   656
+4      2    43333   3    54444   5    6
+-->
+  44443   434       5   656
+4       3     54444   5     6
+-->
+         3   434       5   656
+4333...3   3     54444   5     6
+---
+   5   656
+544  5     6
+----
+
+
+Parte I::
+En una noche de tres de mayo, +
+tuve la suerte de conocerte, tuve +
+la suerte de haberte querido. (BIS)
++
+Tú me decías olvidar todo, +
+olvidaremos todo lo pasado. (BIS)
++
+Negrita, todo lo pasado.(BIS)
+
+Parte II::
+Y yo seguro en tus palabras y +
+esperanzado en tus promesas, viví +
+un tiempo lleno de ilusiones. (BIS)
++
+Ilusiones que vas borrando, con +
+tus hechos que son falsedades. (BIS)
++
+Negrita, que son falsedades. (BIS)
+
+Parte III::
+Que se acabe, que se termine, la +
+triste historia de este cariño, la +
+triste historia de nuestro romance. (BIS)
++
+Que no me miren esos tus ojos, +
+que no me besen ya tus labios rojos. (BIS)
++
+Negrita, ya tus labios rojos. (BIS)
+
+== Abelito
+
+Estilo: Ligero
+[source]
+----
+  2  333  33-322  233     3    5     5     56
+4   2    3      1    33-3  3444  55-5  4334   6
+---
+  5      5     3333223    3     5     5     56
+5   4433   55-5       33-3  3444  55-5  4334
+---
+332      5      56
+    33-5   4334    6
+----
+image::img/abelito.png[]
+
+Parte I::
+Hoy cuanto vale un veintisiete, +
+es como el sol en su lago +
+lucero inmenso del mañana, +
+es lo que vale un veintisiete. +
++
+Cuando pregunten a los Apus, +
+el Cancharani respondera, +
+el Azoguine, Huajsapata, +
+cuanto vale un veintisiete. +
++
+Con sicuris, nunca olvides Abelito. +
+
+Parte II::
+Si quieren callar a tu pueblo, +
+defenderás buen guerrero, +
+Sicuri apu sartañiri +
+toma el valor veintisiete. +
++
+Por eso cuando te reclamen, +
+levantarás el Jake Aru, +
+el gran vocero de tu pueblo, +
+toma el valor veintisiete. +
++
+Con sicuris, nunca olvides Abelito.
+
+== Virginia
+
+Gustavo Alatrista | Estilo: Ligero
+[source]
+----
+  3   3   23-22      34
+4   3   2       1-22    4
+---
+33     5    33     5      4   4   3     56
+  3444   56    344   56-4   4   3   4443   6
+---
+2   3   3      56
+  2   3   4443    6
+----
+
+audio::audio/virginia.mpeg[]
+Parte I::
+Voy a pedir hoy, que doblen las +
+campanas de mi corazón, +
+porque mañana me muero +
+y tú me has dejado sin tu amor
++
+Virginia tú eres la causa, +
+de este cariño que mata con tus +
+crueles desatinos, yo ya estoy +
+muriendo por tu amor
++
+Eres tu virginia +
+la causa de este amor
+
+Parte II::
+Del cielo voy a enviarte +
+mis caricias y mi devoción +
+para que te vengas pronto +
+a quererme más y más que ayer
++
+Virginia tú eres la causa, +
+de este cariño que mata +
+con tus crueles desatinos +
+yo ya estoy muriendo +
+por tu amor
+
+== Suspiros
+
+Estilo: Ligero
+[source]
+----
+--- (BIS)
+  6   5       5.  5   4  33.33  3..322   334
+6   5   44.44   4.  4   3     3.      22    4.
+>>>
+      55  6.666   5    6.
+54443   5.      4   55   6
+---
+322  334  3 23       55  6..666 5   6.
+   22   4. 2  4.54443  5.      4 55   6
+---
+  6   5   33   4        55   6.666   5   6.
+6   5  44    3   4.54443   5.      4  55   6
+----
+
+
+Parte I::
+Esta melodía yo quiero cantar, +
+cual un pentagrama del corazón +
+notas que expresan mi ansiedad, +
+mi sentimiento y mi verdad, +
+cariño mío eres mi bien. (BIS)
++
+A cada instante en mi soledad, +
+suspiro por ti, mi vida entera yo +
+te la di, porque te quise con el +
+alma. (BIS)
++
+Mi vida entera yo te la di, porque +
+te quise con el alma.(BIS)
+
+Parte II::
+Yo no sé si acaso tú piensas en +
+mi, o esta melodía te hará +
+suspirar, tan solo vida quiero +
+pensar, que la distancia jamás +
+será, el mal que arrastre nuestro +
+querer. (BIS)
++
+Sin tu cariño no he de vivir, total +
+para que, si eres aymara de +
+corazón, hasta en el tiempo te +
+esperaré. (BIS)
++
+Si eres aymara de corazón, hasta +
+en el tiempo te esperaré. (BIS)
