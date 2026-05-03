@@ -11,22 +11,30 @@ fs.readFile("./repertorio.toml", "utf-8", (err, data) => {
       } else {
         img = `image::img/${song.img}[]`;
       }
-
       if (song.audio === undefined) {
         audio = "";
       } else {
         audio = `audio::audio/${song.audio}[]`;
       }
-
       if (song.lyrics === undefined) {
         lyrics = "";
       } else {
         lyrics = song.lyrics;
       }
+      if (song.author === undefined) {
+        author = "";
+      } else {
+        author = `${song.author} | `;
+      }
+      if (song.type === undefined) {
+        type = "";
+      } else {
+        type = `Estilo: ${song.type}`;
+      }
 
       let template = `
 == ${song.name}\n
-${song.author} | ${song.type}
+${author}${type}
 [source]
 ----
 ${song.numerofonia}
