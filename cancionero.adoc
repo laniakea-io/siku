@@ -1,5 +1,6 @@
-= AJP 27 de Junio | Repertorio Candelaria 2026
-:toc: left
+= Repertorio Candelaria 2026
+AJP 27 de Junio
+:toc: auto
 :toc-title: Índice
 :sectanchors:
 :sectnumlevels: 2

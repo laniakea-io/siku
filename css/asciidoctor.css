@@ -334,7 +334,8 @@ h1 {
   font-size: 2.125em;
 }
 h2 {
-  font-size: 1.6875em;
+  font-size: 24px;
+  font-weight: 600;
 }
 h3,
 #toctitle,
@@ -369,7 +370,8 @@ small {
   line-height: inherit;
 }
 code {
-  font-family: "JetBrains Mono", "Droid Sans Mono", "DejaVu Sans Mono", monospace;
+  font-family:
+    "JetBrains Mono", "Droid Sans Mono", "DejaVu Sans Mono", monospace;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.9);
   font-size: 16px !important;
@@ -444,17 +446,14 @@ blockquote p {
   h1 {
     font-size: 2.75em;
   }
-  h2 {
-    font-size: 2.3125em;
-  }
-  h3,
-  #toctitle,
-  .sidebarblock > .content > .title {
-    font-size: 1.6875em;
-  }
-  h4 {
-    font-size: 1.4375em;
-  }
+}
+h3,
+#toctitle,
+.sidebarblock > .content > .title {
+  font-size: 1.6875em;
+}
+h4 {
+  font-size: 1.4375em;
 }
 table {
   background: #fff;

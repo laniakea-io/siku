@@ -5,7 +5,12 @@ fs.readFile("./repertorio.toml", "utf-8", (err, data) => {
   if (err) {
     console.error(err);
   } else {
-    toml.parse(data).source.forEach((song) => {
+    parsed = toml.parse(data).source;
+    sorted = parsed.sort((a, b) =>
+      a.name.toLowerCase().localeCompare(b.name.toLowerCase()),
+    );
+
+    sorted.forEach((song) => {
       if (song.img === undefined) {
         img = "";
       } else {
