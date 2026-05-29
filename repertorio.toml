@@ -210,7 +210,7 @@ numerofonia = """
 4   2    3      1    33-3  3444  55-5  4334   6
 -->
   5      5     3333223    3     5     5     56
-5   4433   55-5       33-3  3444  55-5  4334
+5   4433   55-5       33-3  3444  55-5  4334   6
 -->
 332      5      56
     33-5   4334    6"""
@@ -328,3 +328,35 @@ esperaré. (BIS)
 +
 Si eres aymara de corazón, hasta +
 en el tiempo te esperaré. (BIS)"""
+
+[[source]]
+name = "Torero"
+author = "Anónimo"
+type = "Ligero"
+numerofonia = """
+  4    33   2    33
+4   33   33   22    33
+-->
+3    44    4    55
+  33    44   44    55
+-->
+7    55    4    55
+  55    44   44    55"""
+audio = ""
+lyrics = """ """
+
+[[source]]
+name = "Tres (3) de Mayo"
+author = "Cojata"
+type = "Ligero"
+numerofonia = """
+2111  23   21   23   33  45
+    1   33    1   33   3   55
+-->
+  5   4   3    33   45
+5   4   3   33    3    55
+-->
+21   23    33   45
+   1    33    3    55"""
+audio = ""
+lyrics = """ """
