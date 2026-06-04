@@ -7,6 +7,8 @@
 # audio = ""
 # lyrics = """ """
 
+## fecha de composición = 1992, Enero 12
+
 [[source]]
 name = "JJ"
 type = "Ligero"
@@ -72,7 +74,6 @@ numerofonia = """
 -->
    5   55-5     7
 55   44    5-66   6"""
-img = "chuyma-marka.png"
 
 
 [[source]]
@@ -206,15 +207,23 @@ Negrita, ya tus labios rojos. (BIS)"""
 name = "Abelito"
 type = "Ligero"
 numerofonia = """
-  2  333  33-322  233     3    5     5     56
-4   2    3      1    33-3  3444  55-5  4334   6
--->
-  5      5     3333223    3     5     5     56
-5   4433   55-5       33-3  3444  55-5  4334   6
--->
+--> I
+  2   333   33-322   233
+4   2     3        1     33-3
+>>> (continua)
+3     5      5      56
+ 3444   55-5   4334    6
+
+--> II
+  5      5     3333223
+5   4433   55-5       33-3
+>>>
+3     5      5      56
+ 3444   55-5   4334    6
+
+--> III
 332      5      56
     33-5   4334    6"""
-img = "abelito.png"
 lyrics = """Parte I::
 Hoy cuanto vale un veintisiete, +
 es como el sol en su lago +
@@ -360,3 +369,159 @@ numerofonia = """
    1    33    3    55"""
 audio = ""
 lyrics = """ """
+
+[[source]]
+name = "Hermosa Italaqueña"
+author = "Taypi Agia"
+type = "Italaque"
+numerofonia = """
+  6   5   54   554   5
+6   5   4    4    44   4-6
+>>>
+6   5   54      5    56
+  5   4    4444   54    6
+-->
+33    554   33   554
+  4444   44   444   44-6
+>>>
+6   5   5-4    5   56
+  5   4    444   54   6"""
+audio = ""
+lyrics = """
+Hermosa italaqueña +
+De trenzas largas, pollera azul +
+Llegas con el sol de la mañana +
+A las fiestas de San Roque.
+
+Dime morena de labios dulces +
+Si tu cariño ya tiene dueño +
+En tus brazos quiero sentir +
+El susurro de las kantutas.
+
+Hacia el lago se pierde el sol +
+Llevando penas sin desatar +
+A Italaque yo volveré +
+Una mañana del mes de agosto.
+
+Miro al cielo, veo tu rostro +
+Y no es el viento quien te despeina +
+Son las caricias de un sicuri +
+Que no dejará de amarte."""
+
+[[source]]
+name = "Mañanas del 14 de julio"
+author = "Moco Moco"
+type = "?"
+numerofonia = """
+  7   6   5   55     333  4
+66  6   5   4   444-4   3   4
+-->
+ 333  4      5-444  5     6555  6
+4   3   4-434     4   5434    5   6
+>>>
+   6555   6
+765     5   6
+"""
+audio = ""
+lyrics = """
+En las mañanas del 14 de julio, mi corazón se rompió.
+
+Al ver como tú le sonreías +
+Al ver como le entregabas, tu cariño +
+Mi corazón se quebró.
+
+Ingrata, mi corazón se quebró +
+Iluso yo por entregarle su alma +
+A quien no lo mereció.
+
+Solo para cosechar tristezas +
+Para pasar al olvido eterno +
+De quien no lo mereció.
+
+Mi alma, que ella no mereció."""
+
+[[source]]
+name = "Alturas de Huallpacayu"
+author = "?"
+type = "?"
+numerofonia = """
+   2222   3   334
+444     2   2     4
+-->
+    3333   4   556
+4444     3   44   6
+-->
+  6   5   5   556
+6   5   4   54   6"""
+audio = ""
+lyrics = """
+Allá en lo alto, de un cerro lejano (BIS) +
+Dejé mi nombre como un recuerdo (BIS) +
+Y si no regreso, ni tú ya te acuerdes (BIS)
+
+Suri manachu, sonk'o suwaychu (BIS) +
+Sinchi llakiquni ripukuy munaypi (BIS) +
+Y si no regreso, ni tú ya te acuerdes (BIS)"""
+
+[[source]]
+name = "Cunataquiraqui"
+author = "Markasata"
+type = "?"
+numerofonia = """
+    5  3334-32  32       556
+5-44  4       2   4443-44   6
+-->
+4-43       556
+    4-43-44   6
+-->
+  6   5     556
+6   5   4344   6"""
+audio = ""
+lyrics = """
+Cunataquiraqui negra +
+Chuymama churista, negra +
+Chuymama churista
+
+Mayuru, payuru, munasiñataqui
+
+Ahora si no quieres, +
+Ándate con otro
+
+Eso de quererse, negra +
+Tiene una cosita, negra +
+Tiene una cosita
+
+Entra por los ojos, negra +
+Y en el alma queda +
+Ahora si no quieres +
+Ándate con otro."""
+
+[[source]]
+name = "Mi regreso"
+author = "Wara"
+type = "?"
+numerofonia = """
+   7   6   5     44   443   2222
+66   6   6   4444   4     2
+>>>
+   23332    5    56
+211     444   54    6
+-->
+44  55-5  44444-3332    5    56
+  4     4           4444  5-4   6
+-->
+7   7   5      5   56
+  6   5   4444   54   6"""
+audio = ""
+lyrics = """
+De muy lejos he venido, para cumplir la promesa +
+Porque te quiero con el alma mi bella Kantutita
+
+Muchos lugares visité, y otra gente conocí +
+Y he regresado nuevamente, por que yo te quiero a ti
+
+Quiero vivirme contigo, toda la vida +
+En los andes, mi tierra
+
+Siempre yo te voy a querer +
+Mi bella kantutita."""

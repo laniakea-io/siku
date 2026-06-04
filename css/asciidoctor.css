@@ -9,10 +9,14 @@ html {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  padding: 10px;
+  padding: 6px;
+  box-shadow: 3px 1px 16px rgb(42, 124, 255);
   border-radius: 50%;
-  background-color: #b60038;
+  background: linear-gradient(90deg, #64b4ff 0%, #106cf7 100%);
   color: white;
+}
+.index-btn img {
+  height: 36px;
 }
 
 #toc li a {
@@ -291,7 +295,7 @@ a img {
   border: 0;
 }
 p {
-  font-size: 115% !important;
+  font-size: 117% !important;
   line-height: 1.6;
   margin-bottom: 1.25em;
   text-rendering: optimizeLegibility;
@@ -374,9 +378,9 @@ code {
     "JetBrains Mono", "Droid Sans Mono", "DejaVu Sans Mono", monospace;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.9);
-  font-size: 16px !important;
+  font-size: 17px !important;
   @media screen and (min-width: 768px) {
-    font-size: 20px !important;
+    font-size: 21px !important;
   }
 }
 ul,
@@ -745,6 +749,7 @@ p a > code:hover {
 #toc ul {
   font-family: "Open Sans", "DejaVu Sans", sans-serif;
   list-style-type: none;
+  font-size: 18px;
 }
 #toc li {
   line-height: 1.3334;
