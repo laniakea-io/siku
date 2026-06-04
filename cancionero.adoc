@@ -12,6 +12,12 @@ AJP 27 de Junio
 v0.1.7
 
 :sectnums!:
+== Versión móvil PDF
+
+https://github.com/7824b17e-37cf-4cb7-8ce4-852ac11a096d
+
+https://github.com/laniakea-io/siku/blob/main/mobile.pdf[Versión móvil PDF]
+
 == Código QR del sitio web
 
 image::img/qr-code.jpg[,260]
@@ -271,8 +277,6 @@ quisiera tenerte siempre en cada amanecer.
 Porque mi cruel soledad juega con martirios, +
 estoy perdiendo mi vida al no poderte olvidar, +
 eres amor imposible linda flor puneña.
-
-== Huaynos Calmados
 
 == Infamia
 
