@@ -113,36 +113,6 @@ ni un perrito que me ladre. +
 +
 Ayayay cholit@, ni un perrito que me ladre. +
 
-== Nostalgia
-
-_Andres Miraval Centón_
-
-NOTE: Huayno Ligero
-
-image::img/nostalgia.png[]
-
-audio::audio/nostalgia.mpeg[]
-
-Parte I::
-Quien tiene tu ensueño, paloma +
-que el viento susurra.
-+
-Tenía una amante ilusión +
-crecida en el tiempo. +
-+
-Y si no estaba +
-gris era la vida.
-
-Parte II::
-Quiso el destino, un día +
-robarme su amor.
-+
-La pena es más pena y su amor +
-lejano y ausente.
-+
-Sin su cariño +
-tristes son los días.
-
 == Jilata
 
 image::img/jilata.png[]
