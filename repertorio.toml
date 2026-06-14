@@ -421,18 +421,14 @@ numerofonia = """
 audio = ""
 lyrics = """
 Parte I::
-En las mañanas del 14 de julio, mi corazón se rompió
-+
-Al ver como tú le sonreías, como le entregabas, tu cariño, mi corazón se quebró
-+
-Ingrata, mi corazón se quebró +
+En las mañanas del 14 de julio, mi corazón se rompió +
+Al ver como tú le sonreías, como le entregabas, tu cariño, mi corazón se quebró +
+Ingrata, mi corazón se quebró.
 
 Parte II::
-Iluso yo por entregarle mi alma, a quien no lo mereció
-+
-Solo para cosechar tristezas, para pasar al olvido eterno, de quien no lo mereció
-+
-Mi alma, que ella no mereció"""
+Iluso yo por entregarle mi alma, a quien no lo mereció +
+Solo para cosechar tristezas, para pasar al olvido eterno, de quien no lo mereció +
+Mi alma, que ella no mereció."""
 
 [[source]]
 name = "Alturas de Huallpacayu"
@@ -472,17 +468,15 @@ numerofonia = """
 6   5   4344   6"""
 audio = ""
 lyrics = """
-Cunataquiraqui negra, chuymama churista, negra chuymama churista (BIS)
+Parte I::
+Cunataquiraqui negra, chuymama churista, negra chuymama churista (BIS) +
+Mayuru, payuru, munasiñataqui (BIS) +
+Ahora si no quieres, ándate con otro. Y si no me quieres, ándate con otro.
 
-Mayuru, payuru, munasiñataqui (BIS)
-
-Ahora si no quieres, ándate con otro (BIS)
-
-Eso de quererte, negra, tiene una cosita, negra, tiene una cosita (BIS)
-
-Entra por los ojos, mi negra y en el alma queda (BIS)
-
-Ahora si no quieres, ándate con otro. (BIS)"""
+Parte II::
+Eso de quererte, negra, tiene una cosita, negra, tiene una cosita (BIS) +
+Entra por los ojos, negra y en el alma queda (BIS) +
+Ahora si no quieres, ándate con otro. Y si no me quieres, ándate con otro."""
 
 [[source]]
 name = "Mi regreso"
