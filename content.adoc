@@ -276,6 +276,22 @@ A Italaque yo volveré una mañana del mes de agosto.
 Miro al cielo, veo tu rostro y no es el viento quien te despeina +
 Son las caricias de un sicuri, que no dejará de amarte.
 
+== Inca Caja
+
+Qheny Sankayo | Estilo: ?
+[source]
+----
+2-111   2   2   1  2332   5
+      1   2   1   1    ~4   4
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 3332   5  ~5665   6
+4     4  ~44     5   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+   ~5665   6
+5-44     5   6
+----
+ 
+
 == JJ
 
 Estilo: Ligero
@@ -294,6 +310,22 @@ Estilo: Ligero
   2   43    6
 ----
 
+
+== Los Chitos
+
+Qheny Sankayo | Estilo: ?
+[source]
+----
+222  3   3     55   6
+   2   3   3-44   5   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5      5    3    55   6
+5   44-55  44   344   5   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+322   3   4     55   6
+    2   3   4443   5   6
+----
+ 
 
 == Mañanas del 14 de julio
 
@@ -400,6 +432,22 @@ La pena es más pena y su amor lejano y ausente.
 +
 Sin su cariño, tristes son los días.
 
+== Palla Palla 27
+
+Andres Miraval | Estilo: Marcha?
+[source]
+----
+2   1   1   232  23   3
+  1   1   1    1    3   4
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5  5   3   32   5   665  6
+5  4   4   34  34  455   5   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+77    55    665   6
+   55    44     5   6
+----
+ 
+
 == Patat Jalari
 
 Estilo: Ligero
@@ -421,6 +469,34 @@ Estilo: Ligero
 54  5556      5   6
 ----
 
+
+== Qhepama Sarta (voy tras tuyo)
+
+? | Estilo: ?
+[source]
+----
+  5   3    5    555-6   56
+5  444  34  45-4     55    6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+   5      5     555-6   56
+54   45-4   45-4     55    6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+   5     555-6    56
+44   45-4     5-5    6
+----
+Parte I::
+Llaqui queptatakiwa, qhepama sarta, inaj munitaspa asina, imillita.
++
+Qhepama sarta, jaypu chiw'jama, inaj munitaspa sasina, pankarita.
++
+Jani ukhamamti, jinay jinay sarjañani, imillita.
+
+Parte II::
+Llevando penas y olvidos, voy tras tuyo, pensando que tu me querras, palomita.
++
+Corazón roto, hecho una sombra, pensando que tu me querras, voy tras tuyo.
++
+Dulce paloma, vamos, vamonos conmigo, no seas asi.
 
 == Suspiros
 
