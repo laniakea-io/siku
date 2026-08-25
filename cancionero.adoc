@@ -191,10 +191,6 @@ Y cuando sientas el peso de tu infamia, sufrirás hasta en la tumba.
 +
 Negrita, sufrirás hasta en la tumba.
 
-== Camacho
-
-Pronto disponible...
-
 == Despedida Puneña
 
 NOTE: Huayno Calmado
@@ -288,11 +284,11 @@ image::img/diana-hatariy.png[]
 == Flavio
 
 image::img/flavio.png[]
+audio::audio/flavio.m4a[]
 
 == Veintinueve de septiembre
 
 image::img/29-septiembre.png[]
-
 audio::audio/29-septiembre.mpeg[]
 
 Parte I::
@@ -315,7 +311,3 @@ Hermosa chola Conimeña, vives orgullosa, en el fragor de tus avales al pie del 
 En las arenas de tu playa escribí tú nombre mirando el cielo de tus ojos, todo un arco iris.
 +
 Conimeña, todo un arco iris.
-
-== Noche serena
-
-Pronto disponible...

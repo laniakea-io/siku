@@ -26,7 +26,6 @@ numerofonia = """
   2   43    6"""
 audio = "jj.mpeg"
 
-
 [[source]]
 name = "Abandonada"
 author = "Andres Miraval"
@@ -40,6 +39,7 @@ numerofonia = """
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
   6   5        5.  5.   6
 6   5   4.4344   5.  55   6"""
+audio = "abandonada.m4a"
 lyrics = """Como la canción te vas quedando, sola y esperando, mal abandonada. (BIS)
 
 Mañana quedaran, tus ojos más tristes, tu alma ausente, hemos de olvidarte. (BIS)
@@ -345,8 +345,7 @@ numerofonia = """
  5434     5   6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
    6555   6
-765     5   6
-"""
+765     5   6"""
 audio = ""
 lyrics = """Parte I::
 En las mañanas del 14 de julio, mi corazón se rompió
@@ -524,8 +523,7 @@ numerofonia = """
    44   3443   6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
   6   5   543   3     56
-6   5   44   44   3443   66
-"""
+6   5   44   44   3443   66"""
 lyrics = """Parte I::
 Linda Gabriela de mi vida, tus ojos, tus labios son mi debilidad.
 +
@@ -553,10 +551,9 @@ numerofonia = """
   5      5    3    55   6
 5   44-55  44   344   5   6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-322   3   4     55   6
-    2   3   4443   5   6"""
+322  3   4     55    6
+   2   3   4443   55   6"""
 audio = ""
-lyrics = """ """
 
 [[source]]
 name = "Palla Palla 27"
@@ -588,7 +585,6 @@ numerofonia = """
    ~5665   6
 5-44     5   6"""
 audio = ""
-lyrics = """ """
 
 [[source]]
 name = "Qhepama Sarta (voy tras tuyo)"
@@ -617,3 +613,23 @@ Llevando penas y olvidos, voy tras tuyo, pensando que tu me querras, palomita.
 Corazón roto, hecho una sombra, pensando que tu me querras, voy tras tuyo.
 +
 Dulce paloma, vamos, vamonos conmigo, no seas asi."""
+
+[[source]]
+name = "Huata Imilla (tengo mi perrito) Qheny"
+author = "?"
+type = "?"
+numerofonia = """
+  5   23333-23     3
+5   44        3433   4
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5    3    3    5    77
+5   44   33   44   56    56
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5     3    5    77
+5   433   44   56    56"""
+audio = "kheni.m4a"
+
+# Canciones pendientes por registrar:
+# - Poncho negro
+# - Camacho
+# - Noche serena
