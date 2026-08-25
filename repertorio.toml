@@ -1,7 +1,7 @@
 # [[source]]
 # name = ""
 # author = ""
-# type = "Calmado" | "Ligero" | "Diana" | "Marcha"
+# type = "Huayno calmado" | "Ligero" | "Diana" | "Marcha"
 # numerofonia = """ """
 # img = ".png"
 # audio = ""
@@ -91,7 +91,7 @@ audio = "cuando-me-vaya.mp4"
 [[source]]
 name = "Agua Milagro"
 author = "Filiberto Calderon"
-type = "Calmado"
+type = "Huayno calmado"
 numerofonia = """
 322   33   33   5556  6
    22   44   44     6   56
@@ -101,6 +101,7 @@ numerofonia = """
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 322    33    33    5556   6
     22    44    44      6   56"""
+audio = "agua-milagro.m4a"
 lyrics = """Parte I::
 Cariño sobre cariño, yo te conocí conimeñita linda de mis amores.
 +
@@ -111,7 +112,7 @@ Ay Conimeñita linda de mi corazón, pero tú me traicionaste sin compasión.
 Parte II::
 Entre los cactus de flores blancas, negrita llorabas amargamente, tu decepción.
 +
-Agua milagro brindaste, como una prueba de amor, pero tu me traicionaste sin compasión.
+Agua milagro brindaste, como una prueba de amor, pero tú me traicionaste sin compasión.
 +
 Ay Conimeñita linda de mi corazón, pero tú me traicionaste sin compasión.
 
