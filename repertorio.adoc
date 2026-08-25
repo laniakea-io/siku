@@ -32,7 +32,7 @@ Andres Miraval | Estilo: Ligero
 6   5   4.4344   5.  55   6
 ----
 
-
+audio::audio/abandonada.m4a[]
 Como la canción te vas quedando, sola y esperando, mal abandonada. (BIS)
 
 Mañana quedaran, tus ojos más tristes, tu alma ausente, hemos de olvidarte. (BIS)
@@ -245,7 +245,6 @@ Estilo: Ligero
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
   6   5   543   3     56
 6   5   44   44   3443   66
-
 ----
 
 
@@ -298,6 +297,24 @@ A Italaque yo volveré una mañana del mes de agosto.
 Miro al cielo, veo tu rostro y no es el viento quien te despeina +
 Son las caricias de un sicuri, que no dejará de amarte.
 
+== Huata Imilla (tengo mi perrito) Qheny
+
+? | Estilo: ?
+[source]
+----
+  5   23333-23     3
+5   44        3433   4
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5    3    3    5    77
+5   44   33   44   56    56
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5     3    5    77
+5   433   44   56    56
+----
+
+audio::audio/kheni.m4a[]
+
+
 == Inca Caja
 
 Qheny Sankayo | Estilo: ?
@@ -314,7 +331,7 @@ Qheny Sankayo | Estilo: ?
 ----
 
 audio::audio/[]
- 
+
 
 == JJ
 
@@ -348,12 +365,12 @@ Qheny Sankayo | Estilo: ?
   5      5    3    55   6
 5   44-55  44   344   5   6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-322   3   4     55   6
-    2   3   4443   5   6
+322  3   4     55    6
+   2   3   4443   55   6
 ----
 
 audio::audio/[]
- 
+
 
 == Mañanas del 14 de julio
 
@@ -371,7 +388,6 @@ Moco Moco | Estilo: ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
    6555   6
 765     5   6
-
 ----
 
 audio::audio/[]
