@@ -124,7 +124,7 @@ Porque si pasión existe se puede amar con frenesí, pero a lo lejos tu olvido p
 Por eso te ruego que no vuelvas más a mí, porque a lo lejos tu olvido persiste igual."""
 
 [[source]]
-name = "Patat Jalari"
+name = "Patar Jaliri"
 type = "Ligero"
 numerofonia = """
  3333   5556     3
@@ -628,6 +628,231 @@ numerofonia = """
   5     3    5    77
 5   433   44   56    56"""
 audio = "kheni.m4a"
+
+[[source]]
+name = "Marcha Kotos"
+author = "?"
+type = "Marcha"
+numerofonia = """
+21   23   5
+   2    4   4
+~~~~~~~~~~~~~~~
+54   56   7
+   4    6   6
+~~~~~~~~~~~~~~~
+4   56   7
+  4    6   6"""
+
+[[source]]
+name = "K'oto 1"
+author = "?"
+type = "?"
+numerofonia = """
+ 333  4    333  4    444  4  56
+4   3  34-4   3  34-4   4  34  6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+5  6  6   5   6   6   444  4   56
+ 5  66  55  5  66  55-5   4  34  6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+44   4   56
+   4   34   6"""
+
+[[source]]
+name = "K'oto 2"
+author = "Comunidad Sucuni"
+type = "?"
+numerofonia = """
+  4   33  2222-33   56
+4   3   21       344   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  4   4   43     33    56
+4   4   4   4-444   344   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+77   7   6   5     33   56
+  66   6   6  4-444  344   6"""
+
+[[source]]
+name = "K'oto 3 - Harawi"
+author = "Luis Ylaquita"
+type = "?"
+numerofonia = """
+2-1   23   332    4   5
+    1    3     33   4   5
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+2   2   23   332   4   5
+  2   1    3    33   4   5
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+77   5   4  332   4   5
+   5   4   3   33   4   5"""
+
+[[source]]
+name = "K'oto 4"
+author = "Comunidad Sucuni"
+type = "?"
+numerofonia = """
+3   4   34     5   6   56
+  3   44  4-444  5  66   6-6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+5   6   54     5   6   56
+  5   66  4-444  5   66  6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+77  7  6   5     5   6  56
+  66  6  5  4-444  5  66   6"""
+
+[[source]]
+name = "K'oto 5"
+author = "Comunidad Sucuni"
+type = "?"
+numerofonia = """
+22  33  3  22  33  3  43  55  56
+  22  3  4   22  3  4   44  5   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+44  55  56  6  5     43  55  56
+  44  5   6  5  4-444  44   5   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+443   55   56
+    44   5    6"""
+
+[[source]]
+name = "K'oto 6 - Sarjawi"
+author = "Andres Miraval"
+type = "?"
+numerofonia = """
+ 333   334    33   56
+4    3     44   345   6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  5   5   4     33     56
+5   4   4   344    345    6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+       56
+4434-5    6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+33    56
+  345    6"""
+
+[[source]]
+name = "Cacharpari"
+author = "Adaptación AJP"
+type = "Ligero"
+numerofonia = """
+ 33   22   3   5565   6
+4   2    2   34    33   56
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+65565   332   5565   6
+      33   33     33   56
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+33   22   3   5565   6
+   2    2   34    33   56"""
+
+[[source]]
+name = "Falso Juramento"
+author = "Rosendo Vilcapaza Laura"
+type = "Ligero"
+numerofonia = """
+ 2  333  33  23-3  333-33  233
+4  2   3   2     34      2    34
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+   5   77-33   2-3   3
+44   56      2     3   4-44
+>>>
+5    77    5    4   556
+  56    44   44   3     6
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+   5    77   5    4   556
+44   56   44   44   3     6"""
+lyrics = """Parte I::
+El juramento que hicimos aquella noche, cholita, conforme vino y se fue como el viento.
++
+¡Ay coranzóncito! ¿Por qué sufres? ¿Por qué lloras? deja que se vaya, en busca de otro querer y de amores.
++
+¡Ingrata palomita!, en busca de otro querer y de amores.
+
+Parte II::
+Sabías que yo te amaba con todo el alma, cholita, y te haz burlado de mis sentimientos.
++
+¡Ay coranzóncito! ¿Por qué sufres? ¿Por qué lloras? deja que se vaya, en busca de otro querer y de amores.
++
+¡Ingrata palomita!, en busca de otro querer y de amores."""
+
+[[source]]
+name = "Alessandro"
+author = "?"
+type = "?"
+numerofonia = """ """
+img = "alessandro.jpeg"
+
+[[source]]
+name = "Azucena"
+author = "D.R."
+type = "?"
+numerofonia = """ """
+img = "azucena.png"
+audio = "azucena.mpeg"
+lyrics = """
+Parte I::
+Hermosa flor de Azucena, testigo de mis amores, palomita.
++
+La rosa floreciendo, y yo pobre padeciendo, palomita.
++
+Traicionero amor, y yo pobre padeciendo palomita.
+
+Parte II::
+Como quieres que me vaya, sabiendo que te he querido, palomita.
++
+La rosa floreciendo y yo pobre padeciendo, palomita
++
+Traicionero amor, y yo pobre padeciendo, palomita."""
+
+[[source]]
+name = "Diana Juventud"
+author = "Tradicional D.R."
+type = "?"
+numerofonia = """ """
+img = "diana-juventud.png"
+
+[[source]]
+name = "Diana H'atariy"
+author = "Mario Hilari Calderón"
+type = "?"
+numerofonia = """ """
+img = "diana-hatariy.png"
+
+[[source]]
+name = "Flavio"
+author = "?"
+type = "?"
+numerofonia = """ """
+img = "flavio.png"
+audio = "flavio.m4a"
+
+[[source]]
+name = "Veintinueve (29) de Septiembre"
+author = "?"
+type = "?"
+numerofonia = """ """
+img = "29-septiembre.png"
+audio = "29-septiembre.mpeg"
+lyrics = """
+Parte I::
+Un 29 de septiembre, yo te conocido, al compas de las melodias de nuestro sicuri.
++
+En las visperas de San Miguel, al pie de su altar, juraste ser mi compañera, recuerdo imborrable.
++
+Conimeña, recuerdo imborrable.
+
+Parte II::
+Que más pruebas de mi cariño quieres Conimeña, si hasta en las rocas del calvario se encuentra tu nombre.
++
+Bajo las sombras de tus cactus te tuve en mis brazos bebiendo el néctar cristalino de tus labios rojos.
++
+Conimeña, de tus labios rojos.
+
+Parte III::
+Hermosa chola Conimeña, vives orgullosa, en el fragor de tus avales al pie del coloso.
++
+En las arenas de tu playa escribí tú nombre mirando el cielo de tus ojos, todo un arco iris.
++
+Conimeña, todo un arco iris."""
 
 # Canciones pendientes por registrar:
 # - Poncho negro
